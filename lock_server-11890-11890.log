@@ -1,0 +1,16 @@
+./lock_server 11890 11890
+logread
+3908887386:	get_view(1): returns 11890
+3908887386:	config::reconstruct: 1 11890
+3908887386:	commit_change: new view (1)  last vs (0,0) 11890 insync 0
+3908887386:	get_view(1): returns 11890
+3908887386:	get_view(0): returns 
+3908887386:	set_primary: primary stays 11890
+3908887386:	get_view(1): returns 11890
+3908887392:	heartbeater: go to sleep
+3908887392:	get_view(1): returns 11890
+3908887392:	recovery: sync vid_insync 1
+3908887392:	get_view(1): returns 11890
+3908887392:	Goin to sleep 13908887392:	recovery: sync done
+3908887392:	recovery: go to sleep 0 0
+lock_server: ./rpc/slock.h:11: ScopedLock::ScopedLock(pthread_mutex_t*): Assertion `pthread_mutex_lock(m_)==0' failed.

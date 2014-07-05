@@ -1,0 +1,795 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"r"
+			],
+			[
+				"lock",
+				"lockid_t"
+			],
+			[
+				"redo",
+				"redoLastRetry"
+			],
+			[
+				"lo",
+				"lockid_t"
+			],
+			[
+				"proc",
+				"procno"
+			],
+			[
+				"is",
+				"isRevoked"
+			],
+			[
+				"RETRY",
+				"RETRY"
+			],
+			[
+				"lid_",
+				"lid_m_"
+			],
+			[
+				"locks",
+				"locks_size"
+			],
+			[
+				"iter",
+				"iter_revoke"
+			],
+			[
+				"revoke",
+				"revoke_que"
+			],
+			[
+				"R",
+				"R"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Pax",
+				"paxos_protocol"
+			],
+			[
+				"create",
+				"create"
+			],
+			[
+				"release",
+				"releaselock"
+			],
+			[
+				"ac",
+				"acquirelock"
+			],
+			[
+				"relea",
+				"releaselock"
+			],
+			[
+				"eid",
+				"eid"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"getfile",
+				"getFileNo"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"yfs",
+				"yfs_client"
+			],
+			[
+				"content",
+				"content_cache"
+			],
+			[
+				"ino",
+				"inods_map"
+			],
+			[
+				"att",
+				"attribute"
+			],
+			[
+				"l",
+				"lock_client_cache"
+			],
+			[
+				"to",
+				"to_write"
+			],
+			[
+				"buf",
+				"buf_str"
+			],
+			[
+				"file",
+				"file_content"
+			],
+			[
+				"ex",
+				"extent_protocol"
+			],
+			[
+				"rp",
+				"rlock_protocol"
+			],
+			[
+				"th",
+				"thread_id"
+			],
+			[
+				"rel",
+				"RELEASING"
+			],
+			[
+				"isre",
+				"isRevoke"
+			],
+			[
+				"retry",
+				"retry"
+			],
+			[
+				"isRe",
+				"isRetry"
+			],
+			[
+				"wait",
+				"waitList"
+			],
+			[
+				"wai",
+				"waitList"
+			],
+			[
+				"RE",
+				"REACQUIRE"
+			],
+			[
+				"nex",
+				"next_id"
+			],
+			[
+				"tp",
+				"tprintf"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"extent",
+				"extentid_t"
+			],
+			[
+				"time",
+				"time_create"
+			],
+			[
+				"attr",
+				"attribute"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Beacon/Desktop/_SUCCESS",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Beacon/Desktop/part-00000",
+			"settings":
+			{
+				"buffer_size": 1395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Beacon/Desktop/part-00002",
+			"settings":
+			{
+				"buffer_size": 1297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Beacon/Desktop/part-00001",
+			"settings":
+			{
+				"buffer_size": 1281,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_cedict_1_0_ts_utf-8_mdbg.zip/cedict_ts.u8",
+		"/C/Users/Beacon/Downloads/acl2014.tex",
+		"/C/Users/Beacon/Dropbox/NLP/project/stanford-segmenter-2013-06-20/stanford-segmenter-2013-06-20/README-Chinese.txt",
+		"/C/Users/Beacon/Dropbox/NLP/project/2_en_0000_handled",
+		"/C/Users/Beacon/Dropbox/NLP/project/outofdomianchinese.txt_handled",
+		"/C/Users/Beacon/AppData/Local/Temp/scp31881/home/py388/Downloads/stanford-segmenter-2013-06-20/stanford-segmenter-2013-06-20/HandlePunctuation.java",
+		"/C/Users/Beacon/AppData/Local/Temp/scp20685/home/py388/Downloads/stanford-segmenter-2013-06-20/stanford-segmenter-2013-06-20/outofdomianchinese.txt",
+		"/C/Users/Beacon/Downloads/2_en_0000",
+		"/C/Users/Beacon/Downloads/2_zh_cn_0000",
+		"/C/Users/Beacon/Downloads/1",
+		"/C/Users/Beacon/AppData/Local/Temp/7zOC34D.tmp/en-zh_cn.tmx",
+		"/C/Users/Beacon/AppData/Local/Temp/7zEB7B3.tmp/zh_cn",
+		"/C/Users/Beacon/AppData/Local/Temp/7zE9007.tmp/en",
+		"/C/Users/Beacon/AppData/Local/Temp/7zE6BC6.tmp/OpenSubtitles2012.zh_cn",
+		"/C/Users/Beacon/AppData/Local/Temp/7zOE947.tmp/OpenSubtitles2013.raw.zh_cn",
+		"/C/Users/Beacon/AppData/Local/Temp/7zEAAE8.tmp/en",
+		"/C/Users/Beacon/AppData/Local/Temp/7zOF3FB.tmp/en",
+		"/C/Users/Beacon/AppData/Local/Temp/7zO1075.tmp/OpenSubtitles2012.zh_cn",
+		"/C/Users/Beacon/AppData/Local/Temp/7zO3603.tmp/3566824_1of1.xml",
+		"/C/Users/Beacon/AppData/Local/Temp/7zO7884.tmp/3566824_1of1.xml",
+		"/C/Users/Beacon/AppData/Local/Temp/7zO7C52.tmp/3174777_1of1.xml",
+		"/C/Users/Beacon/Documents/GitHub/MT2013/data/train50k.zh.2.mrg",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_MyYouTube.zip/MyYouTube/WebContent/index.jsp",
+		"/C/Users/Beacon/Desktop/Audio Recorder_files/recorder.js",
+		"/C/Users/Beacon/Documents/GitHub/MT2013/data/train50k_len50.5.mrg",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_code.zip/src/nlp/assignments/LanguageModelTester.java",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_code.zip/src/nlp/assignments/KatzTrigramLanguageModel.java",
+		"/C/Users/Beacon/Downloads/acl2014 (1).tex",
+		"/C/Users/Beacon/Documents/MyYouTube/index.jsp",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_code.zip/src/nlp/assignments/Homework1Evaluator.java",
+		"/C/Users/Beacon/Dropbox/NLP/code5/src/nlp/assignments/BigramScorer.java",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_code.zip/src/nlp/assignments/EmpiricalTrigramLanguageModel.java",
+		"/C/Users/Beacon/Dropbox/NLP/code5/src/nlp/assignments/EmpiricalBigramLanguageModel.java",
+		"/C/Users/Beacon/Documents/GitHub/MT2013/hs_err_pid2016.log",
+		"/C/Users/Beacon/Documents/GitHub/MT2013/data/train50k.zh.1.mrg",
+		"/C/Users/Beacon/Dropbox/NLP/project/zhihui-segmentor-2013-linux64/README",
+		"/C/Users/Beacon/Dropbox/NLP/project/zhihui-segmentor-2013-linux64/input.txt",
+		"/C/Users/Beacon/Dropbox/NLP/project/test_handled",
+		"/C/Users/Beacon/AppData/Local/Temp/7zO9CCB.tmp/arpa94.ps",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_LCMC.zip/2474/Lcmc/data/pinyin/LCMC_A.xml",
+		"/C/Users/Beacon/Desktop/acl2014.pdf",
+		"/C/Users/Beacon/Desktop/Audio Recorder_files/main.js",
+		"/C/Users/Beacon/Desktop/Audio Recorder_files/audiodisplay.js",
+		"/C/Users/Beacon/Desktop/Audio Recorder.htm",
+		"/C/Users/Beacon/Documents/MyYouTube/WebContent/js/app/app.js",
+		"/C/Users/Beacon/Documents/MyYouTube/WebContent/config.xml",
+		"/C/Users/Beacon/Documents/MyYouTube/WebContent/index.html",
+		"/C/Users/Beacon/my-app/www/config.xml",
+		"/C/Users/Beacon/Documents/MyYouTube/WebContent/index.htm",
+		"/C/Users/Beacon/Documents/Cousou/Jumbotron Template for Bootstrap.htm",
+		"/C/Users/Beacon/Desktop/Instagram_files/ga.js",
+		"/C/Users/Beacon/Downloads/wordpress-3.7.1/wordpress/index.php",
+		"/C/Users/Beacon/Desktop/Instagram.htm",
+		"/D/BackUp/Sublime Text Build 3047/Data/Packages/LaTeXTools/README.markdown",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_WebContent.zip/WebContent/index.html",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_WebContent.zip/WebContent/index.jsp",
+		"/C/Users/Beacon/Dropbox/NLP/project/HandlePunctuation.java",
+		"/C/Users/Beacon/my-app/www/index.html",
+		"/C/Users/Beacon/my-app/www/js/app/app.js",
+		"/C/Users/Beacon/Downloads/audero-audio-player/index.html",
+		"/C/Users/Beacon/Downloads/audero-audio-player/files-list.html",
+		"/C/Users/Beacon/Downloads/audero-audio-player/player.html",
+		"/C/Users/Beacon/Downloads/audero-audio-player/js/player.js",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_audero-audio-player.zip/index.html",
+		"/C/Users/Beacon/my-app/www/js/app/bootstrap.js",
+		"/C/Users/Beacon/Desktop/config.xml",
+		"/C/Users/Beacon/.cordova/lib/android/cordova/3.3.0/bin/lib/check_reqs.js",
+		"/C/Users/Beacon/my-app/www/spec.html",
+		"/C/Users/Beacon/my-app/www/js/index.js",
+		"/C/Users/Beacon/Desktop/jqm-fotonote-master/js/lib/handlebars-1.0.rc.1.js",
+		"/C/Users/Beacon/Desktop/jqm-fotonote-master/js/app/bootstrap.js",
+		"/C/Users/Beacon/Desktop/jqm-fotonote-master/js/app/app.js",
+		"/C/Users/Beacon/Desktop/jqm-fotonote-master/index.html",
+		"/C/Users/Beacon/Desktop/jqm-fotonote-master/spec.html",
+		"/C/Users/Beacon/my-app/www/css/index.css",
+		"/C/Users/Beacon/Downloads/ftmp_150_ve/ftmp_150_ve/说明.txt",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server-15076-15076.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server-18365-18365.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server-18365-21305.log",
+		"/C/Users/Beacon/Documents/Jumbotron Template for Bootstrap.htm",
+		"/C/Users/Beacon/Downloads/bootstrap-3.0.3-dist/dist/js/bootstrap.js",
+		"/C/Users/Beacon/Desktop/global.css",
+		"/C/Users/Beacon/Desktop/Sign up   Tumblr.htm",
+		"/C/Users/Beacon/Desktop/Instagram_files/bluebar.js",
+		"/C/Users/Beacon/Desktop/Instagram_files/__config.js",
+		"/C/Users/Beacon/Desktop/Instagram_files/jquery.js",
+		"/C/Users/Beacon/Desktop/Instagram_files/strings_zh-cn.js",
+		"/C/Users/Beacon/Desktop/Log in   Tumblr_files/registration.js",
+		"/C/Users/Beacon/Desktop/Log in   Tumblr_files/dashboard.js",
+		"/C/Users/Beacon/Desktop/Log in   Tumblr_files/en_US.js",
+		"/C/Users/Beacon/Desktop/Log in   Tumblr_files/analytics.js",
+		"/C/Users/Beacon/Desktop/Tumblr_files/beacon.js",
+		"/D/BackUp/Sublime Text Build 3047/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/BackUp/Sublime Text Build 3047/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/Beacon/Desktop/Log in   Tumblr_files/ga.js",
+		"/C/Users/Beacon/Downloads/export/meta.txt",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_client_cache_rsm.cc",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server_cache_rsm.h",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_protocol.h",
+		"/C/Users/Beacon/Documents/GitHub/YFS/rsm_client.cc",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_tester-15076.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/rsm.cc",
+		"/C/Users/Beacon/Dropbox/DS/lab1/rsm_state_transfer.h",
+		"/C/Users/Beacon/Dropbox/DS/lab1/rsm_protocol.h",
+		"/C/Users/Beacon/Dropbox/DS/lab1/rsm_client.cc",
+		"/C/Users/Beacon/Documents/GitHub/YFS/rsm.cc",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server-24692-33352.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_tester-24692.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_smain.cc",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server_cache_rsm.cc",
+		"/C/Users/Beacon/Dropbox/DS/lab1/rsm_tester-54635-breakpoint-1.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/rsm_client.h",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_tester-48764.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server-48764-48764.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/rsm.h",
+		"/C/Users/Beacon/Dropbox/DS/lab1/rpc/rpc.cc",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_tester-16895.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server-10753-10753.log",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_client_cache_rsm.h",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_client.cc",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server.cc",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_server.h",
+		"/C/Users/Beacon/Dropbox/DS/lab1/lock_tester-10753.log",
+		"/C/Users/Beacon/Dropbox/DS/lock_client_cache_rsm.cc",
+		"/C/Users/Beacon/Documents/GitHub/mt13/src/nlp/project/MTTester.java",
+		"/C/Users/Beacon/Documents/GitHub/mt13/data/train50k.wa.decoded",
+		"/C/Users/Beacon/AppData/Local/Temp/Temp1_src.zip/src/nlp/project/CKYParser2.java",
+		"/C/Users/Beacon/Dropbox/NLP/code5/src/nlp/assignments/CKYParser.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Beacon\\Desktop\\jqm-fotonote-master",
+			"C:\\Users\\Beacon\\Dropbox\\DS\\lab1",
+			"C:\\Users\\Beacon\\Documents\\GitHub\\Distributed-System-1\\lab1-8",
+			"C:\\Users\\Beacon\\Dropbox\\DS\\lab1,C:\\Users\\Beacon\\Desktop\\New folder (2)",
+			"C:\\Users\\Beacon\\Dropbox\\DS\\lab1",
+			"C:\\Users\\Administrator\\Dropbox\\DS\\Distributed-system-2-master\\lab_2\\rpc,C:\\Users\\Administrator\\Dropbox\\DS\\Distributed-system-2-master\\lab_2",
+			"C:\\Users\\Administrator\\Dropbox\\DS\\Distributed-system-2-master\\lab_2\\rpc",
+			"C:\\Users\\Administrator\\Dropbox\\DS\\Distributed-system-2-masters_,C:\\Users\\Administrator\\Dropbox\\DS\\Distributed-system-2-master\\lab_2",
+			"C:\\Users\\Administrator\\Dropbox\\DS\\Distributed-system-2-masters_",
+			"C:\\Users\\Administrator\\Dropbox\\DS\\lab1,C:\\Users\\Administrator\\Dropbox\\DS\\lab1\\rpc,C:\\Users\\Administrator\\Dropbox\\DS\\lab1\\lang,C:\\Users\\Administrator\\Dropbox\\DS\\lab1\\myfs",
+			"C:\\Users\\Administrator\\Dropbox\\DS\\lab1,C:\\Users\\Administrator\\Dropbox\\DS\\lab1\\rpc,C:\\Users\\Administrator\\Dropbox\\DS\\lab1\\lang",
+			"C:\\Users\\Administrator\\Dropbox\\DS\\lab1,C:\\Users\\Administrator\\Dropbox\\DS\\lab1\\rpc",
+			"C:\\Users\\Administrator\\Dropbox\\DS\\lab1",
+			"C:\\Users\\Administrator\\Dropbox\\DS\\lab"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"博弈论",
+			"魑魅魍魉",
+			"viz",
+			"control",
+			"controls",
+			"viz",
+			"controls",
+			"AudioContext",
+			"analyser",
+			"audioRecorder",
+			"navigator",
+			"uploadPhoto",
+			"capture",
+			"rsmtest",
+			"rlock_protocal",
+			"7001",
+			"[",
+			"[]",
+			"what",
+			"what()",
+			" what()",
+			"insync",
+			"!!!!!!!!!!!!!!!!!!!!!!",
+			"transferdonereq",
+			"commit_change_wo",
+			"signal",
+			"recovery_cond",
+			"inviewchange = false",
+			"transferdonereq",
+			"recovery",
+			"inviewchange",
+			"transferreq",
+			"called revoke",
+			"revoke",
+			"called",
+			"li.",
+			"wait list",
+			"7895",
+			"7995",
+			"7895",
+			"called",
+			"primary",
+			"preparereq failed!",
+			"shit true",
+			"revoke not primary",
+			"delete_handle",
+			"delete_handle_wo",
+			"heartbeat",
+			"doheartbeat: problem with",
+			"couldn't reach",
+			"---",
+			"|||",
+			"16243",
+			"Waiting for",
+			"transferreq",
+			"transferreq from",
+			"failed",
+			"ailed",
+			"c_v",
+			"c_nodes",
+			"revok",
+			"cl->",
+			"rsmc->",
+			"fail",
+			"21776",
+			"fail",
+			"error",
+			"fail",
+			"R: start",
+			"cli->xid",
+			"xid",
+			"cli->xid",
+			"xid",
+			"printf",
+			"cl->",
+			"rsm",
+			"rsmc->",
+			"cl->",
+			"rsmc->",
+			"28440",
+			"breakpoint1",
+			"5488",
+			"broadcast",
+			"5488",
+			"17723",
+			"brea",
+			"       \n",
+			"xid",
+			"isRetry",
+			"get_lock_status",
+			"get_lock",
+			"xid",
+			"breakpoint1",
+			"14118",
+			"!!!3",
+			"release done",
+			"call",
+			"7001",
+			"partition1",
+			"breakpoint",
+			"break",
+			"retry_que",
+			"revoke",
+			"break",
+			"breakpoint",
+			"lock_cache_value",
+			"lock_cache_obj",
+			"tLockMap",
+			"something wrong",
+			"cl->",
+			"cl",
+			"gg",
+			"xid",
+			"lockinfo",
+			"release_cond",
+			"fifo",
+			"c_",
+			"fifo",
+			"ScopedLock",
+			"shit",
+			"retry",
+			"revoke",
+			"8000",
+			"release",
+			"acquire",
+			"rsm",
+			"//",
+			"s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"broadcast",
+			"li->",
+			"rsmc->",
+			"cl->",
+			"xid",
+			"tprintf",
+			"rsmc->",
+			"cl->",
+			"rsmc->",
+			"cl->",
+			"signal",
+			"cli->xid",
+			"release_que",
+			"retry",
+			"lockinfo",
+			"li",
+			"lockid_map",
+			"rsmc->",
+			"xid",
+			"String",
+			"safebind",
+			"YFS",
+			"yfs_client::",
+			"content_cache",
+			"eid",
+			"temp",
+			"cl",
+			"rlock_protocol",
+			"string",
+			"",
+			"std::map<extent_protocol::extentid_t, content>",
+			"reply_window_deleted"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Beacon/Desktop/_SUCCESS",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Beacon/Desktop/part-00000",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1161,
+								1161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Beacon/Desktop/part-00002",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1860.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Beacon/Desktop/part-00001",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1653.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

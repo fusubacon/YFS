@@ -1,0 +1,1837 @@
+./lock_server 11890 16728
+logread
+3908888376:	heartbeater: go to sleep
+3908888376:	get_view(0): returns 
+3908888376:	rsm::join: 11890 mylast (0,0)
+3908888376:	handler_mgr::get_handle trying to bind...11890
+3908889376:	handle_mgr::get_handle bind failure! 11890 -1
+3908889379:	rsm::join: couldn't reach 11890 (nil) 152211476
+3908889384:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3908890689:	get_view(0): returns 
+3908890689:	heartbeater: current membership 
+3908890689:	heartbeater: not member yet; skip hearbeat
+3908890690:	heartbeater: go to sleep
+3908893688:	get_view(0): returns 
+3908893689:	heartbeater: current membership 
+3908893689:	heartbeater: not member yet; skip hearbeat
+3908893690:	heartbeater: go to sleep
+3908896689:	get_view(0): returns 
+3908896690:	heartbeater: current membership 
+3908896691:	heartbeater: not member yet; skip hearbeat
+3908896691:	heartbeater: go to sleep
+3908899689:	get_view(0): returns 
+3908899690:	heartbeater: current membership 
+3908899691:	heartbeater: not member yet; skip hearbeat
+3908899691:	heartbeater: go to sleep
+3908902688:	get_view(0): returns 
+3908902689:	heartbeater: current membership 
+3908902689:	heartbeater: not member yet; skip hearbeat
+3908902690:	heartbeater: go to sleep
+3908905688:	get_view(0): returns 
+3908905689:	heartbeater: current membership 
+3908905689:	heartbeater: not member yet; skip hearbeat
+3908905689:	heartbeater: go to sleep
+3908908689:	get_view(0): returns 
+3908908690:	heartbeater: current membership 
+3908908690:	heartbeater: not member yet; skip hearbeat
+3908908691:	heartbeater: go to sleep
+3908911688:	get_view(0): returns 
+3908911689:	heartbeater: current membership 
+3908911689:	heartbeater: not member yet; skip hearbeat
+3908911690:	heartbeater: go to sleep
+3908914689:	get_view(0): returns 
+3908914691:	heartbeater: current membership 
+3908914692:	heartbeater: not member yet; skip hearbeat
+3908914693:	heartbeater: go to sleep
+3908917688:	get_view(0): returns 
+3908917690:	heartbeater: current membership 
+3908917691:	heartbeater: not member yet; skip hearbeat
+3908917692:	heartbeater: go to sleep
+3908919385:	get_view(0): returns 
+3908919387:	rsm::join: 11890 mylast (0,0)
+3908919388:	handler_mgr::get_handle trying to bind...11890
+3908920390:	handle_mgr::get_handle bind failure! 11890 -1
+3908920392:	rsm::join: couldn't reach 11890 (nil) 152211476
+3908920393:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3908920688:	get_view(0): returns 
+3908920689:	heartbeater: current membership 
+3908920690:	heartbeater: not member yet; skip hearbeat
+3908920691:	heartbeater: go to sleep
+3908923688:	get_view(0): returns 
+3908923690:	heartbeater: current membership 
+3908923690:	heartbeater: not member yet; skip hearbeat
+3908923691:	heartbeater: go to sleep
+3908926689:	get_view(0): returns 
+3908926690:	heartbeater: current membership 
+3908926691:	heartbeater: not member yet; skip hearbeat
+3908926692:	heartbeater: go to sleep
+3908929688:	get_view(0): returns 
+3908929690:	heartbeater: current membership 
+3908929691:	heartbeater: not member yet; skip hearbeat
+3908929692:	heartbeater: go to sleep
+3908932688:	get_view(0): returns 
+3908932690:	heartbeater: current membership 
+3908932691:	heartbeater: not member yet; skip hearbeat
+3908932692:	heartbeater: go to sleep
+3908935689:	get_view(0): returns 
+3908935691:	heartbeater: current membership 
+3908935692:	heartbeater: not member yet; skip hearbeat
+3908935693:	heartbeater: go to sleep
+3908938688:	get_view(0): returns 
+3908938689:	heartbeater: current membership 
+3908938690:	heartbeater: not member yet; skip hearbeat
+3908938691:	heartbeater: go to sleep
+3908941688:	get_view(0): returns 
+3908941689:	heartbeater: current membership 
+3908941689:	heartbeater: not member yet; skip hearbeat
+3908941689:	heartbeater: go to sleep
+3908944688:	get_view(0): returns 
+3908944690:	heartbeater: current membership 
+3908944690:	heartbeater: not member yet; skip hearbeat
+3908944691:	heartbeater: go to sleep
+3908947688:	get_view(0): returns 
+3908947688:	heartbeater: current membership 
+3908947689:	heartbeater: not member yet; skip hearbeat
+3908947689:	heartbeater: go to sleep
+3908950394:	get_view(0): returns 
+3908950396:	rsm::join: 11890 mylast (0,0)
+3908950397:	handler_mgr::get_handle trying to bind...11890
+3908950689:	get_view(0): returns 
+3908950690:	heartbeater: current membership 
+3908950691:	heartbeater: not member yet; skip hearbeat
+3908950692:	heartbeater: go to sleep
+3908951398:	handle_mgr::get_handle bind failure! 11890 -1
+3908951400:	rsm::join: couldn't reach 11890 (nil) 152211476
+3908951401:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3908953689:	get_view(0): returns 
+3908953689:	heartbeater: current membership 
+3908953689:	heartbeater: not member yet; skip hearbeat
+3908953690:	heartbeater: go to sleep
+3908956688:	get_view(0): returns 
+3908956689:	heartbeater: current membership 
+3908956690:	heartbeater: not member yet; skip hearbeat
+3908956690:	heartbeater: go to sleep
+3908959688:	get_view(0): returns 
+3908959688:	heartbeater: current membership 
+3908959689:	heartbeater: not member yet; skip hearbeat
+3908959689:	heartbeater: go to sleep
+3908962688:	get_view(0): returns 
+3908962688:	heartbeater: current membership 
+3908962689:	heartbeater: not member yet; skip hearbeat
+3908962689:	heartbeater: go to sleep
+3908965688:	get_view(0): returns 
+3908965690:	heartbeater: current membership 
+3908965692:	heartbeater: not member yet; skip hearbeat
+3908965693:	heartbeater: go to sleep
+3908968688:	get_view(0): returns 
+3908968690:	heartbeater: current membership 
+3908968691:	heartbeater: not member yet; skip hearbeat
+3908968693:	heartbeater: go to sleep
+3908971688:	get_view(0): returns 
+3908971690:	heartbeater: current membership 
+3908971691:	heartbeater: not member yet; skip hearbeat
+3908971692:	heartbeater: go to sleep
+3908974688:	get_view(0): returns 
+3908974690:	heartbeater: current membership 
+3908974691:	heartbeater: not member yet; skip hearbeat
+3908974692:	heartbeater: go to sleep
+3908977688:	get_view(0): returns 
+3908977689:	heartbeater: current membership 
+3908977689:	heartbeater: not member yet; skip hearbeat
+3908977689:	heartbeater: go to sleep
+3908980688:	get_view(0): returns 
+3908980688:	heartbeater: current membership 
+3908980689:	heartbeater: not member yet; skip hearbeat
+3908980689:	heartbeater: go to sleep
+3908981402:	get_view(0): returns 
+3908981403:	rsm::join: 11890 mylast (0,0)
+3908981403:	handler_mgr::get_handle trying to bind...11890
+3908982404:	handle_mgr::get_handle bind failure! 11890 -1
+3908982405:	rsm::join: couldn't reach 11890 (nil) 152211476
+3908982406:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3908983688:	get_view(0): returns 
+3908983689:	heartbeater: current membership 
+3908983689:	heartbeater: not member yet; skip hearbeat
+3908983690:	heartbeater: go to sleep
+3908986689:	get_view(0): returns 
+3908986689:	heartbeater: current membership 
+3908986690:	heartbeater: not member yet; skip hearbeat
+3908986690:	heartbeater: go to sleep
+3908989688:	get_view(0): returns 
+3908989688:	heartbeater: current membership 
+3908989689:	heartbeater: not member yet; skip hearbeat
+3908989689:	heartbeater: go to sleep
+3908992688:	get_view(0): returns 
+3908992689:	heartbeater: current membership 
+3908992689:	heartbeater: not member yet; skip hearbeat
+3908992689:	heartbeater: go to sleep
+3908995688:	get_view(0): returns 
+3908995689:	heartbeater: current membership 
+3908995689:	heartbeater: not member yet; skip hearbeat
+3908995689:	heartbeater: go to sleep
+3908998688:	get_view(0): returns 
+3908998688:	heartbeater: current membership 
+3908998689:	heartbeater: not member yet; skip hearbeat
+3908998689:	heartbeater: go to sleep
+3909001688:	get_view(0): returns 
+3909001689:	heartbeater: current membership 
+3909001689:	heartbeater: not member yet; skip hearbeat
+3909001690:	heartbeater: go to sleep
+3909004689:	get_view(0): returns 
+3909004690:	heartbeater: current membership 
+3909004690:	heartbeater: not member yet; skip hearbeat
+3909004690:	heartbeater: go to sleep
+3909007688:	get_view(0): returns 
+3909007689:	heartbeater: current membership 
+3909007689:	heartbeater: not member yet; skip hearbeat
+3909007689:	heartbeater: go to sleep
+3909010688:	get_view(0): returns 
+3909010689:	heartbeater: current membership 
+3909010689:	heartbeater: not member yet; skip hearbeat
+3909010689:	heartbeater: go to sleep
+3909012407:	get_view(0): returns 
+3909012407:	rsm::join: 11890 mylast (0,0)
+3909012408:	handler_mgr::get_handle trying to bind...11890
+3909013409:	handle_mgr::get_handle bind failure! 11890 -1
+3909013411:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909013412:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909013689:	get_view(0): returns 
+3909013690:	heartbeater: current membership 
+3909013691:	heartbeater: not member yet; skip hearbeat
+3909013692:	heartbeater: go to sleep
+3909016689:	get_view(0): returns 
+3909016690:	heartbeater: current membership 
+3909016691:	heartbeater: not member yet; skip hearbeat
+3909016691:	heartbeater: go to sleep
+3909019688:	get_view(0): returns 
+3909019689:	heartbeater: current membership 
+3909019689:	heartbeater: not member yet; skip hearbeat
+3909019689:	heartbeater: go to sleep
+3909022688:	get_view(0): returns 
+3909022689:	heartbeater: current membership 
+3909022689:	heartbeater: not member yet; skip hearbeat
+3909022689:	heartbeater: go to sleep
+3909025688:	get_view(0): returns 
+3909025689:	heartbeater: current membership 
+3909025689:	heartbeater: not member yet; skip hearbeat
+3909025690:	heartbeater: go to sleep
+3909028688:	get_view(0): returns 
+3909028689:	heartbeater: current membership 
+3909028689:	heartbeater: not member yet; skip hearbeat
+3909028689:	heartbeater: go to sleep
+3909031688:	get_view(0): returns 
+3909031689:	heartbeater: current membership 
+3909031689:	heartbeater: not member yet; skip hearbeat
+3909031690:	heartbeater: go to sleep
+3909034688:	get_view(0): returns 
+3909034689:	heartbeater: current membership 
+3909034689:	heartbeater: not member yet; skip hearbeat
+3909034690:	heartbeater: go to sleep
+3909037688:	get_view(0): returns 
+3909037689:	heartbeater: current membership 
+3909037689:	heartbeater: not member yet; skip hearbeat
+3909037690:	heartbeater: go to sleep
+3909040688:	get_view(0): returns 
+3909040689:	heartbeater: current membership 
+3909040689:	heartbeater: not member yet; skip hearbeat
+3909040689:	heartbeater: go to sleep
+3909043414:	get_view(0): returns 
+3909043414:	rsm::join: 11890 mylast (0,0)
+3909043415:	handler_mgr::get_handle trying to bind...11890
+3909043689:	get_view(0): returns 
+3909043689:	heartbeater: current membership 
+3909043689:	heartbeater: not member yet; skip hearbeat
+3909043691:	heartbeater: go to sleep
+3909044416:	handle_mgr::get_handle bind failure! 11890 -1
+3909044418:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909044418:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909046688:	get_view(0): returns 
+3909046689:	heartbeater: current membership 
+3909046689:	heartbeater: not member yet; skip hearbeat
+3909046689:	heartbeater: go to sleep
+3909049688:	get_view(0): returns 
+3909049688:	heartbeater: current membership 
+3909049689:	heartbeater: not member yet; skip hearbeat
+3909049689:	heartbeater: go to sleep
+3909052689:	get_view(0): returns 
+3909052689:	heartbeater: current membership 
+3909052690:	heartbeater: not member yet; skip hearbeat
+3909052690:	heartbeater: go to sleep
+3909055689:	get_view(0): returns 
+3909055690:	heartbeater: current membership 
+3909055690:	heartbeater: not member yet; skip hearbeat
+3909055690:	heartbeater: go to sleep
+3909058690:	get_view(0): returns 
+3909058692:	heartbeater: current membership 
+3909058692:	heartbeater: not member yet; skip hearbeat
+3909058692:	heartbeater: go to sleep
+3909061688:	get_view(0): returns 
+3909061689:	heartbeater: current membership 
+3909061690:	heartbeater: not member yet; skip hearbeat
+3909061690:	heartbeater: go to sleep
+3909064688:	get_view(0): returns 
+3909064691:	heartbeater: current membership 
+3909064692:	heartbeater: not member yet; skip hearbeat
+3909064692:	heartbeater: go to sleep
+3909067689:	get_view(0): returns 
+3909067690:	heartbeater: current membership 
+3909067690:	heartbeater: not member yet; skip hearbeat
+3909067691:	heartbeater: go to sleep
+3909070689:	get_view(0): returns 
+3909070690:	heartbeater: current membership 
+3909070691:	heartbeater: not member yet; skip hearbeat
+3909070691:	heartbeater: go to sleep
+3909073688:	get_view(0): returns 
+3909073689:	heartbeater: current membership 
+3909073689:	heartbeater: not member yet; skip hearbeat
+3909073690:	heartbeater: go to sleep
+3909074418:	get_view(0): returns 
+3909074419:	rsm::join: 11890 mylast (0,0)
+3909074419:	handler_mgr::get_handle trying to bind...11890
+3909075421:	handle_mgr::get_handle bind failure! 11890 -1
+3909075421:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909075422:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909076689:	get_view(0): returns 
+3909076690:	heartbeater: current membership 
+3909076690:	heartbeater: not member yet; skip hearbeat
+3909076691:	heartbeater: go to sleep
+3909079688:	get_view(0): returns 
+3909079688:	heartbeater: current membership 
+3909079689:	heartbeater: not member yet; skip hearbeat
+3909079689:	heartbeater: go to sleep
+3909082688:	get_view(0): returns 
+3909082689:	heartbeater: current membership 
+3909082689:	heartbeater: not member yet; skip hearbeat
+3909082690:	heartbeater: go to sleep
+3909085688:	get_view(0): returns 
+3909085690:	heartbeater: current membership 
+3909085690:	heartbeater: not member yet; skip hearbeat
+3909085691:	heartbeater: go to sleep
+3909088688:	get_view(0): returns 
+3909088689:	heartbeater: current membership 
+3909088689:	heartbeater: not member yet; skip hearbeat
+3909088690:	heartbeater: go to sleep
+3909091689:	get_view(0): returns 
+3909091691:	heartbeater: current membership 
+3909091691:	heartbeater: not member yet; skip hearbeat
+3909091692:	heartbeater: go to sleep
+3909094688:	get_view(0): returns 
+3909094690:	heartbeater: current membership 
+3909094691:	heartbeater: not member yet; skip hearbeat
+3909094693:	heartbeater: go to sleep
+3909097688:	get_view(0): returns 
+3909097689:	heartbeater: current membership 
+3909097690:	heartbeater: not member yet; skip hearbeat
+3909097691:	heartbeater: go to sleep
+3909100688:	get_view(0): returns 
+3909100689:	heartbeater: current membership 
+3909100689:	heartbeater: not member yet; skip hearbeat
+3909100690:	heartbeater: go to sleep
+3909103692:	get_view(0): returns 
+3909103696:	heartbeater: current membership 
+3909103699:	heartbeater: not member yet; skip hearbeat
+3909103700:	heartbeater: go to sleep
+3909105423:	get_view(0): returns 
+3909105424:	rsm::join: 11890 mylast (0,0)
+3909105424:	handler_mgr::get_handle trying to bind...11890
+3909106425:	handle_mgr::get_handle bind failure! 11890 -1
+3909106425:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909106425:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909106688:	get_view(0): returns 
+3909106689:	heartbeater: current membership 
+3909106690:	heartbeater: not member yet; skip hearbeat
+3909106691:	heartbeater: go to sleep
+3909109688:	get_view(0): returns 
+3909109689:	heartbeater: current membership 
+3909109690:	heartbeater: not member yet; skip hearbeat
+3909109690:	heartbeater: go to sleep
+3909112689:	get_view(0): returns 
+3909112690:	heartbeater: current membership 
+3909112690:	heartbeater: not member yet; skip hearbeat
+3909112691:	heartbeater: go to sleep
+3909115688:	get_view(0): returns 
+3909115689:	heartbeater: current membership 
+3909115689:	heartbeater: not member yet; skip hearbeat
+3909115689:	heartbeater: go to sleep
+3909118689:	get_view(0): returns 
+3909118689:	heartbeater: current membership 
+3909118690:	heartbeater: not member yet; skip hearbeat
+3909118690:	heartbeater: go to sleep
+3909121688:	get_view(0): returns 
+3909121689:	heartbeater: current membership 
+3909121689:	heartbeater: not member yet; skip hearbeat
+3909121690:	heartbeater: go to sleep
+3909124688:	get_view(0): returns 
+3909124689:	heartbeater: current membership 
+3909124690:	heartbeater: not member yet; skip hearbeat
+3909124691:	heartbeater: go to sleep
+3909127688:	get_view(0): returns 
+3909127689:	heartbeater: current membership 
+3909127689:	heartbeater: not member yet; skip hearbeat
+3909127690:	heartbeater: go to sleep
+3909130688:	get_view(0): returns 
+3909130692:	heartbeater: current membership 
+3909130692:	heartbeater: not member yet; skip hearbeat
+3909130693:	heartbeater: go to sleep
+3909133688:	get_view(0): returns 
+3909133688:	heartbeater: current membership 
+3909133689:	heartbeater: not member yet; skip hearbeat
+3909133689:	heartbeater: go to sleep
+3909136429:	get_view(0): returns 
+3909136433:	rsm::join: 11890 mylast (0,0)
+3909136433:	handler_mgr::get_handle trying to bind...11890
+3909136688:	get_view(0): returns 
+3909136689:	heartbeater: current membership 
+3909136689:	heartbeater: not member yet; skip hearbeat
+3909136689:	heartbeater: go to sleep
+3909137435:	handle_mgr::get_handle bind failure! 11890 -1
+3909137435:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909137436:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909139688:	get_view(0): returns 
+3909139689:	heartbeater: current membership 
+3909139689:	heartbeater: not member yet; skip hearbeat
+3909139690:	heartbeater: go to sleep
+3909142688:	get_view(0): returns 
+3909142690:	heartbeater: current membership 
+3909142691:	heartbeater: not member yet; skip hearbeat
+3909142693:	heartbeater: go to sleep
+3909145688:	get_view(0): returns 
+3909145689:	heartbeater: current membership 
+3909145690:	heartbeater: not member yet; skip hearbeat
+3909145691:	heartbeater: go to sleep
+3909148688:	get_view(0): returns 
+3909148690:	heartbeater: current membership 
+3909148691:	heartbeater: not member yet; skip hearbeat
+3909148692:	heartbeater: go to sleep
+3909151689:	get_view(0): returns 
+3909151690:	heartbeater: current membership 
+3909151691:	heartbeater: not member yet; skip hearbeat
+3909151691:	heartbeater: go to sleep
+3909154688:	get_view(0): returns 
+3909154689:	heartbeater: current membership 
+3909154690:	heartbeater: not member yet; skip hearbeat
+3909154691:	heartbeater: go to sleep
+3909157688:	get_view(0): returns 
+3909157690:	heartbeater: current membership 
+3909157690:	heartbeater: not member yet; skip hearbeat
+3909157692:	heartbeater: go to sleep
+3909160688:	get_view(0): returns 
+3909160690:	heartbeater: current membership 
+3909160690:	heartbeater: not member yet; skip hearbeat
+3909160691:	heartbeater: go to sleep
+3909163688:	get_view(0): returns 
+3909163688:	heartbeater: current membership 
+3909163689:	heartbeater: not member yet; skip hearbeat
+3909163689:	heartbeater: go to sleep
+3909166688:	get_view(0): returns 
+3909166689:	heartbeater: current membership 
+3909166689:	heartbeater: not member yet; skip hearbeat
+3909166690:	heartbeater: go to sleep
+3909167436:	get_view(0): returns 
+3909167437:	rsm::join: 11890 mylast (0,0)
+3909167437:	handler_mgr::get_handle trying to bind...11890
+3909168438:	handle_mgr::get_handle bind failure! 11890 -1
+3909168438:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909168438:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909169688:	get_view(0): returns 
+3909169689:	heartbeater: current membership 
+3909169689:	heartbeater: not member yet; skip hearbeat
+3909169690:	heartbeater: go to sleep
+3909172688:	get_view(0): returns 
+3909172689:	heartbeater: current membership 
+3909172691:	heartbeater: not member yet; skip hearbeat
+3909172696:	heartbeater: go to sleep
+3909175688:	get_view(0): returns 
+3909175688:	heartbeater: current membership 
+3909175689:	heartbeater: not member yet; skip hearbeat
+3909175689:	heartbeater: go to sleep
+3909178688:	get_view(0): returns 
+3909178689:	heartbeater: current membership 
+3909178690:	heartbeater: not member yet; skip hearbeat
+3909178691:	heartbeater: go to sleep
+3909181688:	get_view(0): returns 
+3909181689:	heartbeater: current membership 
+3909181690:	heartbeater: not member yet; skip hearbeat
+3909181690:	heartbeater: go to sleep
+3909184688:	get_view(0): returns 
+3909184689:	heartbeater: current membership 
+3909184689:	heartbeater: not member yet; skip hearbeat
+3909184690:	heartbeater: go to sleep
+3909187688:	get_view(0): returns 
+3909187689:	heartbeater: current membership 
+3909187690:	heartbeater: not member yet; skip hearbeat
+3909187690:	heartbeater: go to sleep
+3909190689:	get_view(0): returns 
+3909190690:	heartbeater: current membership 
+3909190690:	heartbeater: not member yet; skip hearbeat
+3909190691:	heartbeater: go to sleep
+3909193688:	get_view(0): returns 
+3909193689:	heartbeater: current membership 
+3909193689:	heartbeater: not member yet; skip hearbeat
+3909193689:	heartbeater: go to sleep
+3909196689:	get_view(0): returns 
+3909196691:	heartbeater: current membership 
+3909196692:	heartbeater: not member yet; skip hearbeat
+3909196693:	heartbeater: go to sleep
+3909198440:	get_view(0): returns 
+3909198445:	rsm::join: 11890 mylast (0,0)
+3909198445:	handler_mgr::get_handle trying to bind...11890
+3909199446:	handle_mgr::get_handle bind failure! 11890 -1
+3909199448:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909199448:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909199688:	get_view(0): returns 
+3909199689:	heartbeater: current membership 
+3909199689:	heartbeater: not member yet; skip hearbeat
+3909199689:	heartbeater: go to sleep
+3909202688:	get_view(0): returns 
+3909202689:	heartbeater: current membership 
+3909202689:	heartbeater: not member yet; skip hearbeat
+3909202690:	heartbeater: go to sleep
+3909205688:	get_view(0): returns 
+3909205689:	heartbeater: current membership 
+3909205690:	heartbeater: not member yet; skip hearbeat
+3909205691:	heartbeater: go to sleep
+3909208689:	get_view(0): returns 
+3909208690:	heartbeater: current membership 
+3909208691:	heartbeater: not member yet; skip hearbeat
+3909208692:	heartbeater: go to sleep
+3909211688:	get_view(0): returns 
+3909211689:	heartbeater: current membership 
+3909211689:	heartbeater: not member yet; skip hearbeat
+3909211690:	heartbeater: go to sleep
+3909214688:	get_view(0): returns 
+3909214689:	heartbeater: current membership 
+3909214689:	heartbeater: not member yet; skip hearbeat
+3909214690:	heartbeater: go to sleep
+3909217688:	get_view(0): returns 
+3909217690:	heartbeater: current membership 
+3909217691:	heartbeater: not member yet; skip hearbeat
+3909217692:	heartbeater: go to sleep
+3909220688:	get_view(0): returns 
+3909220689:	heartbeater: current membership 
+3909220690:	heartbeater: not member yet; skip hearbeat
+3909220691:	heartbeater: go to sleep
+3909223688:	get_view(0): returns 
+3909223689:	heartbeater: current membership 
+3909223690:	heartbeater: not member yet; skip hearbeat
+3909223691:	heartbeater: go to sleep
+3909226688:	get_view(0): returns 
+3909226690:	heartbeater: current membership 
+3909226691:	heartbeater: not member yet; skip hearbeat
+3909226692:	heartbeater: go to sleep
+3909229449:	get_view(0): returns 
+3909229450:	rsm::join: 11890 mylast (0,0)
+3909229451:	handler_mgr::get_handle trying to bind...11890
+3909229688:	get_view(0): returns 
+3909229689:	heartbeater: current membership 
+3909229690:	heartbeater: not member yet; skip hearbeat
+3909229690:	heartbeater: go to sleep
+3909230453:	handle_mgr::get_handle bind failure! 11890 -1
+3909230455:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909230455:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909232688:	get_view(0): returns 
+3909232690:	heartbeater: current membership 
+3909232691:	heartbeater: not member yet; skip hearbeat
+3909232692:	heartbeater: go to sleep
+3909235688:	get_view(0): returns 
+3909235689:	heartbeater: current membership 
+3909235690:	heartbeater: not member yet; skip hearbeat
+3909235691:	heartbeater: go to sleep
+3909238688:	get_view(0): returns 
+3909238689:	heartbeater: current membership 
+3909238689:	heartbeater: not member yet; skip hearbeat
+3909238690:	heartbeater: go to sleep
+3909241688:	get_view(0): returns 
+3909241690:	heartbeater: current membership 
+3909241690:	heartbeater: not member yet; skip hearbeat
+3909241691:	heartbeater: go to sleep
+3909244688:	get_view(0): returns 
+3909244689:	heartbeater: current membership 
+3909244689:	heartbeater: not member yet; skip hearbeat
+3909244690:	heartbeater: go to sleep
+3909247688:	get_view(0): returns 
+3909247689:	heartbeater: current membership 
+3909247690:	heartbeater: not member yet; skip hearbeat
+3909247690:	heartbeater: go to sleep
+3909250689:	get_view(0): returns 
+3909250690:	heartbeater: current membership 
+3909250691:	heartbeater: not member yet; skip hearbeat
+3909250691:	heartbeater: go to sleep
+3909253688:	get_view(0): returns 
+3909253690:	heartbeater: current membership 
+3909253690:	heartbeater: not member yet; skip hearbeat
+3909253690:	heartbeater: go to sleep
+3909256688:	get_view(0): returns 
+3909256688:	heartbeater: current membership 
+3909256689:	heartbeater: not member yet; skip hearbeat
+3909256689:	heartbeater: go to sleep
+3909259688:	get_view(0): returns 
+3909259689:	heartbeater: current membership 
+3909259689:	heartbeater: not member yet; skip hearbeat
+3909259690:	heartbeater: go to sleep
+3909260456:	get_view(0): returns 
+3909260457:	rsm::join: 11890 mylast (0,0)
+3909260457:	handler_mgr::get_handle trying to bind...11890
+3909261458:	handle_mgr::get_handle bind failure! 11890 -1
+3909261463:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909261464:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909262688:	get_view(0): returns 
+3909262689:	heartbeater: current membership 
+3909262689:	heartbeater: not member yet; skip hearbeat
+3909262689:	heartbeater: go to sleep
+3909265688:	get_view(0): returns 
+3909265689:	heartbeater: current membership 
+3909265689:	heartbeater: not member yet; skip hearbeat
+3909265689:	heartbeater: go to sleep
+3909268688:	get_view(0): returns 
+3909268689:	heartbeater: current membership 
+3909268689:	heartbeater: not member yet; skip hearbeat
+3909268690:	heartbeater: go to sleep
+3909271688:	get_view(0): returns 
+3909271689:	heartbeater: current membership 
+3909271689:	heartbeater: not member yet; skip hearbeat
+3909271690:	heartbeater: go to sleep
+3909274688:	get_view(0): returns 
+3909274689:	heartbeater: current membership 
+3909274689:	heartbeater: not member yet; skip hearbeat
+3909274689:	heartbeater: go to sleep
+3909277688:	get_view(0): returns 
+3909277689:	heartbeater: current membership 
+3909277689:	heartbeater: not member yet; skip hearbeat
+3909277689:	heartbeater: go to sleep
+3909280688:	get_view(0): returns 
+3909280689:	heartbeater: current membership 
+3909280690:	heartbeater: not member yet; skip hearbeat
+3909280690:	heartbeater: go to sleep
+3909283689:	get_view(0): returns 
+3909283689:	heartbeater: current membership 
+3909283689:	heartbeater: not member yet; skip hearbeat
+3909283690:	heartbeater: go to sleep
+3909286688:	get_view(0): returns 
+3909286689:	heartbeater: current membership 
+3909286689:	heartbeater: not member yet; skip hearbeat
+3909286690:	heartbeater: go to sleep
+3909289688:	get_view(0): returns 
+3909289690:	heartbeater: current membership 
+3909289690:	heartbeater: not member yet; skip hearbeat
+3909289690:	heartbeater: go to sleep
+3909291465:	get_view(0): returns 
+3909291466:	rsm::join: 11890 mylast (0,0)
+3909291468:	handler_mgr::get_handle trying to bind...11890
+3909292469:	handle_mgr::get_handle bind failure! 11890 -1
+3909292473:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909292474:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909292688:	get_view(0): returns 
+3909292689:	heartbeater: current membership 
+3909292689:	heartbeater: not member yet; skip hearbeat
+3909292689:	heartbeater: go to sleep
+3909295689:	get_view(0): returns 
+3909295689:	heartbeater: current membership 
+3909295690:	heartbeater: not member yet; skip hearbeat
+3909295690:	heartbeater: go to sleep
+3909298688:	get_view(0): returns 
+3909298689:	heartbeater: current membership 
+3909298689:	heartbeater: not member yet; skip hearbeat
+3909298690:	heartbeater: go to sleep
+3909301688:	get_view(0): returns 
+3909301689:	heartbeater: current membership 
+3909301690:	heartbeater: not member yet; skip hearbeat
+3909301690:	heartbeater: go to sleep
+3909304688:	get_view(0): returns 
+3909304688:	heartbeater: current membership 
+3909304689:	heartbeater: not member yet; skip hearbeat
+3909304689:	heartbeater: go to sleep
+3909307689:	get_view(0): returns 
+3909307690:	heartbeater: current membership 
+3909307690:	heartbeater: not member yet; skip hearbeat
+3909307690:	heartbeater: go to sleep
+3909310688:	get_view(0): returns 
+3909310690:	heartbeater: current membership 
+3909310690:	heartbeater: not member yet; skip hearbeat
+3909310691:	heartbeater: go to sleep
+3909313689:	get_view(0): returns 
+3909313689:	heartbeater: current membership 
+3909313689:	heartbeater: not member yet; skip hearbeat
+3909313690:	heartbeater: go to sleep
+3909316688:	get_view(0): returns 
+3909316689:	heartbeater: current membership 
+3909316690:	heartbeater: not member yet; skip hearbeat
+3909316691:	heartbeater: go to sleep
+3909319688:	get_view(0): returns 
+3909319689:	heartbeater: current membership 
+3909319689:	heartbeater: not member yet; skip hearbeat
+3909319689:	heartbeater: go to sleep
+3909322475:	get_view(0): returns 
+3909322476:	rsm::join: 11890 mylast (0,0)
+3909322476:	handler_mgr::get_handle trying to bind...11890
+3909322689:	get_view(0): returns 
+3909322690:	heartbeater: current membership 
+3909322690:	heartbeater: not member yet; skip hearbeat
+3909322691:	heartbeater: go to sleep
+3909323478:	handle_mgr::get_handle bind failure! 11890 -1
+3909323478:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909323479:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909325689:	get_view(0): returns 
+3909325689:	heartbeater: current membership 
+3909325690:	heartbeater: not member yet; skip hearbeat
+3909325690:	heartbeater: go to sleep
+3909328688:	get_view(0): returns 
+3909328689:	heartbeater: current membership 
+3909328690:	heartbeater: not member yet; skip hearbeat
+3909328690:	heartbeater: go to sleep
+3909331688:	get_view(0): returns 
+3909331689:	heartbeater: current membership 
+3909331689:	heartbeater: not member yet; skip hearbeat
+3909331689:	heartbeater: go to sleep
+3909334688:	get_view(0): returns 
+3909334689:	heartbeater: current membership 
+3909334690:	heartbeater: not member yet; skip hearbeat
+3909334691:	heartbeater: go to sleep
+3909337688:	get_view(0): returns 
+3909337689:	heartbeater: current membership 
+3909337689:	heartbeater: not member yet; skip hearbeat
+3909337690:	heartbeater: go to sleep
+3909340688:	get_view(0): returns 
+3909340689:	heartbeater: current membership 
+3909340689:	heartbeater: not member yet; skip hearbeat
+3909340689:	heartbeater: go to sleep
+3909343688:	get_view(0): returns 
+3909343689:	heartbeater: current membership 
+3909343690:	heartbeater: not member yet; skip hearbeat
+3909343690:	heartbeater: go to sleep
+3909346689:	get_view(0): returns 
+3909346689:	heartbeater: current membership 
+3909346690:	heartbeater: not member yet; skip hearbeat
+3909346690:	heartbeater: go to sleep
+3909349688:	get_view(0): returns 
+3909349689:	heartbeater: current membership 
+3909349690:	heartbeater: not member yet; skip hearbeat
+3909349690:	heartbeater: go to sleep
+3909352688:	get_view(0): returns 
+3909352689:	heartbeater: current membership 
+3909352689:	heartbeater: not member yet; skip hearbeat
+3909352690:	heartbeater: go to sleep
+3909353481:	get_view(0): returns 
+3909353482:	rsm::join: 11890 mylast (0,0)
+3909353483:	handler_mgr::get_handle trying to bind...11890
+3909354484:	handle_mgr::get_handle bind failure! 11890 -1
+3909354485:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909354485:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909355688:	get_view(0): returns 
+3909355689:	heartbeater: current membership 
+3909355689:	heartbeater: not member yet; skip hearbeat
+3909355689:	heartbeater: go to sleep
+3909358688:	get_view(0): returns 
+3909358689:	heartbeater: current membership 
+3909358689:	heartbeater: not member yet; skip hearbeat
+3909358690:	heartbeater: go to sleep
+3909361689:	get_view(0): returns 
+3909361689:	heartbeater: current membership 
+3909361690:	heartbeater: not member yet; skip hearbeat
+3909361690:	heartbeater: go to sleep
+3909364688:	get_view(0): returns 
+3909364689:	heartbeater: current membership 
+3909364690:	heartbeater: not member yet; skip hearbeat
+3909364690:	heartbeater: go to sleep
+3909367688:	get_view(0): returns 
+3909367689:	heartbeater: current membership 
+3909367690:	heartbeater: not member yet; skip hearbeat
+3909367690:	heartbeater: go to sleep
+3909370688:	get_view(0): returns 
+3909370690:	heartbeater: current membership 
+3909370690:	heartbeater: not member yet; skip hearbeat
+3909370691:	heartbeater: go to sleep
+3909373688:	get_view(0): returns 
+3909373689:	heartbeater: current membership 
+3909373689:	heartbeater: not member yet; skip hearbeat
+3909373689:	heartbeater: go to sleep
+3909376688:	get_view(0): returns 
+3909376690:	heartbeater: current membership 
+3909376690:	heartbeater: not member yet; skip hearbeat
+3909376690:	heartbeater: go to sleep
+3909379688:	get_view(0): returns 
+3909379689:	heartbeater: current membership 
+3909379689:	heartbeater: not member yet; skip hearbeat
+3909379690:	heartbeater: go to sleep
+3909382688:	get_view(0): returns 
+3909382689:	heartbeater: current membership 
+3909382689:	heartbeater: not member yet; skip hearbeat
+3909382690:	heartbeater: go to sleep
+3909384486:	get_view(0): returns 
+3909384488:	rsm::join: 11890 mylast (0,0)
+3909384488:	handler_mgr::get_handle trying to bind...11890
+3909385489:	handle_mgr::get_handle bind failure! 11890 -1
+3909385489:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909385490:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909385689:	get_view(0): returns 
+3909385690:	heartbeater: current membership 
+3909385690:	heartbeater: not member yet; skip hearbeat
+3909385691:	heartbeater: go to sleep
+3909388689:	get_view(0): returns 
+3909388689:	heartbeater: current membership 
+3909388690:	heartbeater: not member yet; skip hearbeat
+3909388690:	heartbeater: go to sleep
+3909391689:	get_view(0): returns 
+3909391690:	heartbeater: current membership 
+3909391690:	heartbeater: not member yet; skip hearbeat
+3909391690:	heartbeater: go to sleep
+3909394688:	get_view(0): returns 
+3909394689:	heartbeater: current membership 
+3909394689:	heartbeater: not member yet; skip hearbeat
+3909394689:	heartbeater: go to sleep
+3909397688:	get_view(0): returns 
+3909397689:	heartbeater: current membership 
+3909397689:	heartbeater: not member yet; skip hearbeat
+3909397690:	heartbeater: go to sleep
+3909400689:	get_view(0): returns 
+3909400691:	heartbeater: current membership 
+3909400692:	heartbeater: not member yet; skip hearbeat
+3909400694:	heartbeater: go to sleep
+3909403688:	get_view(0): returns 
+3909403689:	heartbeater: current membership 
+3909403689:	heartbeater: not member yet; skip hearbeat
+3909403689:	heartbeater: go to sleep
+3909406688:	get_view(0): returns 
+3909406689:	heartbeater: current membership 
+3909406689:	heartbeater: not member yet; skip hearbeat
+3909406689:	heartbeater: go to sleep
+3909409688:	get_view(0): returns 
+3909409689:	heartbeater: current membership 
+3909409689:	heartbeater: not member yet; skip hearbeat
+3909409690:	heartbeater: go to sleep
+3909412689:	get_view(0): returns 
+3909412690:	heartbeater: current membership 
+3909412690:	heartbeater: not member yet; skip hearbeat
+3909412691:	heartbeater: go to sleep
+3909415490:	get_view(0): returns 
+3909415491:	rsm::join: 11890 mylast (0,0)
+3909415492:	handler_mgr::get_handle trying to bind...11890
+3909415688:	get_view(0): returns 
+3909415688:	heartbeater: current membership 
+3909415689:	heartbeater: not member yet; skip hearbeat
+3909415689:	heartbeater: go to sleep
+3909416494:	handle_mgr::get_handle bind failure! 11890 -1
+3909416496:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909416496:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909418688:	get_view(0): returns 
+3909418689:	heartbeater: current membership 
+3909418689:	heartbeater: not member yet; skip hearbeat
+3909418689:	heartbeater: go to sleep
+3909421688:	get_view(0): returns 
+3909421690:	heartbeater: current membership 
+3909421690:	heartbeater: not member yet; skip hearbeat
+3909421691:	heartbeater: go to sleep
+3909424688:	get_view(0): returns 
+3909424689:	heartbeater: current membership 
+3909424689:	heartbeater: not member yet; skip hearbeat
+3909424690:	heartbeater: go to sleep
+3909427688:	get_view(0): returns 
+3909427689:	heartbeater: current membership 
+3909427690:	heartbeater: not member yet; skip hearbeat
+3909427690:	heartbeater: go to sleep
+3909430688:	get_view(0): returns 
+3909430689:	heartbeater: current membership 
+3909430690:	heartbeater: not member yet; skip hearbeat
+3909430691:	heartbeater: go to sleep
+3909433688:	get_view(0): returns 
+3909433689:	heartbeater: current membership 
+3909433690:	heartbeater: not member yet; skip hearbeat
+3909433690:	heartbeater: go to sleep
+3909436688:	get_view(0): returns 
+3909436689:	heartbeater: current membership 
+3909436689:	heartbeater: not member yet; skip hearbeat
+3909436689:	heartbeater: go to sleep
+3909439688:	get_view(0): returns 
+3909439689:	heartbeater: current membership 
+3909439689:	heartbeater: not member yet; skip hearbeat
+3909439689:	heartbeater: go to sleep
+3909442688:	get_view(0): returns 
+3909442689:	heartbeater: current membership 
+3909442690:	heartbeater: not member yet; skip hearbeat
+3909442691:	heartbeater: go to sleep
+3909445688:	get_view(0): returns 
+3909445689:	heartbeater: current membership 
+3909445690:	heartbeater: not member yet; skip hearbeat
+3909445690:	heartbeater: go to sleep
+3909446497:	get_view(0): returns 
+3909446498:	rsm::join: 11890 mylast (0,0)
+3909446498:	handler_mgr::get_handle trying to bind...11890
+3909447500:	handle_mgr::get_handle bind failure! 11890 -1
+3909447501:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909447502:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909448688:	get_view(0): returns 
+3909448689:	heartbeater: current membership 
+3909448689:	heartbeater: not member yet; skip hearbeat
+3909448690:	heartbeater: go to sleep
+3909451689:	get_view(0): returns 
+3909451689:	heartbeater: current membership 
+3909451689:	heartbeater: not member yet; skip hearbeat
+3909451690:	heartbeater: go to sleep
+3909454689:	get_view(0): returns 
+3909454690:	heartbeater: current membership 
+3909454690:	heartbeater: not member yet; skip hearbeat
+3909454691:	heartbeater: go to sleep
+3909457688:	get_view(0): returns 
+3909457689:	heartbeater: current membership 
+3909457690:	heartbeater: not member yet; skip hearbeat
+3909457691:	heartbeater: go to sleep
+3909460689:	get_view(0): returns 
+3909460690:	heartbeater: current membership 
+3909460691:	heartbeater: not member yet; skip hearbeat
+3909460692:	heartbeater: go to sleep
+3909463688:	get_view(0): returns 
+3909463689:	heartbeater: current membership 
+3909463690:	heartbeater: not member yet; skip hearbeat
+3909463691:	heartbeater: go to sleep
+3909466689:	get_view(0): returns 
+3909466690:	heartbeater: current membership 
+3909466690:	heartbeater: not member yet; skip hearbeat
+3909466691:	heartbeater: go to sleep
+3909469688:	get_view(0): returns 
+3909469688:	heartbeater: current membership 
+3909469689:	heartbeater: not member yet; skip hearbeat
+3909469689:	heartbeater: go to sleep
+3909472688:	get_view(0): returns 
+3909472688:	heartbeater: current membership 
+3909472689:	heartbeater: not member yet; skip hearbeat
+3909472689:	heartbeater: go to sleep
+3909475688:	get_view(0): returns 
+3909475689:	heartbeater: current membership 
+3909475689:	heartbeater: not member yet; skip hearbeat
+3909475690:	heartbeater: go to sleep
+3909477503:	get_view(0): returns 
+3909477504:	rsm::join: 11890 mylast (0,0)
+3909477504:	handler_mgr::get_handle trying to bind...11890
+3909478505:	handle_mgr::get_handle bind failure! 11890 -1
+3909478506:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909478506:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909478688:	get_view(0): returns 
+3909478688:	heartbeater: current membership 
+3909478689:	heartbeater: not member yet; skip hearbeat
+3909478689:	heartbeater: go to sleep
+3909481688:	get_view(0): returns 
+3909481689:	heartbeater: current membership 
+3909481689:	heartbeater: not member yet; skip hearbeat
+3909481690:	heartbeater: go to sleep
+3909484688:	get_view(0): returns 
+3909484689:	heartbeater: current membership 
+3909484689:	heartbeater: not member yet; skip hearbeat
+3909484689:	heartbeater: go to sleep
+3909487688:	get_view(0): returns 
+3909487689:	heartbeater: current membership 
+3909487689:	heartbeater: not member yet; skip hearbeat
+3909487690:	heartbeater: go to sleep
+3909490688:	get_view(0): returns 
+3909490689:	heartbeater: current membership 
+3909490689:	heartbeater: not member yet; skip hearbeat
+3909490690:	heartbeater: go to sleep
+3909493688:	get_view(0): returns 
+3909493688:	heartbeater: current membership 
+3909493688:	heartbeater: not member yet; skip hearbeat
+3909493689:	heartbeater: go to sleep
+3909496689:	get_view(0): returns 
+3909496690:	heartbeater: current membership 
+3909496691:	heartbeater: not member yet; skip hearbeat
+3909496691:	heartbeater: go to sleep
+3909499688:	get_view(0): returns 
+3909499688:	heartbeater: current membership 
+3909499689:	heartbeater: not member yet; skip hearbeat
+3909499689:	heartbeater: go to sleep
+3909502688:	get_view(0): returns 
+3909502690:	heartbeater: current membership 
+3909502690:	heartbeater: not member yet; skip hearbeat
+3909502691:	heartbeater: go to sleep
+3909505688:	get_view(0): returns 
+3909505689:	heartbeater: current membership 
+3909505689:	heartbeater: not member yet; skip hearbeat
+3909505690:	heartbeater: go to sleep
+3909508508:	get_view(0): returns 
+3909508509:	rsm::join: 11890 mylast (0,0)
+3909508510:	handler_mgr::get_handle trying to bind...11890
+3909508688:	get_view(0): returns 
+3909508689:	heartbeater: current membership 
+3909508689:	heartbeater: not member yet; skip hearbeat
+3909508691:	heartbeater: go to sleep
+3909509511:	handle_mgr::get_handle bind failure! 11890 -1
+3909509512:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909509512:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909511688:	get_view(0): returns 
+3909511689:	heartbeater: current membership 
+3909511690:	heartbeater: not member yet; skip hearbeat
+3909511691:	heartbeater: go to sleep
+3909514689:	get_view(0): returns 
+3909514689:	heartbeater: current membership 
+3909514690:	heartbeater: not member yet; skip hearbeat
+3909514690:	heartbeater: go to sleep
+3909517688:	get_view(0): returns 
+3909517689:	heartbeater: current membership 
+3909517689:	heartbeater: not member yet; skip hearbeat
+3909517690:	heartbeater: go to sleep
+3909520688:	get_view(0): returns 
+3909520689:	heartbeater: current membership 
+3909520689:	heartbeater: not member yet; skip hearbeat
+3909520690:	heartbeater: go to sleep
+3909523688:	get_view(0): returns 
+3909523689:	heartbeater: current membership 
+3909523689:	heartbeater: not member yet; skip hearbeat
+3909523690:	heartbeater: go to sleep
+3909526688:	get_view(0): returns 
+3909526689:	heartbeater: current membership 
+3909526690:	heartbeater: not member yet; skip hearbeat
+3909526690:	heartbeater: go to sleep
+3909529689:	get_view(0): returns 
+3909529690:	heartbeater: current membership 
+3909529690:	heartbeater: not member yet; skip hearbeat
+3909529691:	heartbeater: go to sleep
+3909532688:	get_view(0): returns 
+3909532689:	heartbeater: current membership 
+3909532690:	heartbeater: not member yet; skip hearbeat
+3909532690:	heartbeater: go to sleep
+3909535689:	get_view(0): returns 
+3909535690:	heartbeater: current membership 
+3909535690:	heartbeater: not member yet; skip hearbeat
+3909535691:	heartbeater: go to sleep
+3909538688:	get_view(0): returns 
+3909538690:	heartbeater: current membership 
+3909538691:	heartbeater: not member yet; skip hearbeat
+3909538692:	heartbeater: go to sleep
+3909539512:	get_view(0): returns 
+3909539513:	rsm::join: 11890 mylast (0,0)
+3909539514:	handler_mgr::get_handle trying to bind...11890
+3909540516:	handle_mgr::get_handle bind failure! 11890 -1
+3909540517:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909540517:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909541688:	get_view(0): returns 
+3909541689:	heartbeater: current membership 
+3909541689:	heartbeater: not member yet; skip hearbeat
+3909541690:	heartbeater: go to sleep
+3909544688:	get_view(0): returns 
+3909544688:	heartbeater: current membership 
+3909544689:	heartbeater: not member yet; skip hearbeat
+3909544689:	heartbeater: go to sleep
+3909547688:	get_view(0): returns 
+3909547688:	heartbeater: current membership 
+3909547689:	heartbeater: not member yet; skip hearbeat
+3909547689:	heartbeater: go to sleep
+3909550688:	get_view(0): returns 
+3909550689:	heartbeater: current membership 
+3909550690:	heartbeater: not member yet; skip hearbeat
+3909550691:	heartbeater: go to sleep
+3909553688:	get_view(0): returns 
+3909553689:	heartbeater: current membership 
+3909553690:	heartbeater: not member yet; skip hearbeat
+3909553690:	heartbeater: go to sleep
+3909556688:	get_view(0): returns 
+3909556689:	heartbeater: current membership 
+3909556689:	heartbeater: not member yet; skip hearbeat
+3909556690:	heartbeater: go to sleep
+3909559688:	get_view(0): returns 
+3909559690:	heartbeater: current membership 
+3909559690:	heartbeater: not member yet; skip hearbeat
+3909559691:	heartbeater: go to sleep
+3909562688:	get_view(0): returns 
+3909562689:	heartbeater: current membership 
+3909562689:	heartbeater: not member yet; skip hearbeat
+3909562690:	heartbeater: go to sleep
+3909565689:	get_view(0): returns 
+3909565690:	heartbeater: current membership 
+3909565690:	heartbeater: not member yet; skip hearbeat
+3909565691:	heartbeater: go to sleep
+3909568688:	get_view(0): returns 
+3909568689:	heartbeater: current membership 
+3909568690:	heartbeater: not member yet; skip hearbeat
+3909568691:	heartbeater: go to sleep
+3909570518:	get_view(0): returns 
+3909570519:	rsm::join: 11890 mylast (0,0)
+3909570521:	handler_mgr::get_handle trying to bind...11890
+3909571522:	handle_mgr::get_handle bind failure! 11890 -1
+3909571524:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909571525:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909571688:	get_view(0): returns 
+3909571689:	heartbeater: current membership 
+3909571690:	heartbeater: not member yet; skip hearbeat
+3909571691:	heartbeater: go to sleep
+3909574689:	get_view(0): returns 
+3909574690:	heartbeater: current membership 
+3909574691:	heartbeater: not member yet; skip hearbeat
+3909574692:	heartbeater: go to sleep
+3909577688:	get_view(0): returns 
+3909577689:	heartbeater: current membership 
+3909577689:	heartbeater: not member yet; skip hearbeat
+3909577690:	heartbeater: go to sleep
+3909580688:	get_view(0): returns 
+3909580689:	heartbeater: current membership 
+3909580689:	heartbeater: not member yet; skip hearbeat
+3909580690:	heartbeater: go to sleep
+3909583688:	get_view(0): returns 
+3909583688:	heartbeater: current membership 
+3909583688:	heartbeater: not member yet; skip hearbeat
+3909583689:	heartbeater: go to sleep
+3909586688:	get_view(0): returns 
+3909586689:	heartbeater: current membership 
+3909586690:	heartbeater: not member yet; skip hearbeat
+3909586690:	heartbeater: go to sleep
+3909589688:	get_view(0): returns 
+3909589689:	heartbeater: current membership 
+3909589689:	heartbeater: not member yet; skip hearbeat
+3909589690:	heartbeater: go to sleep
+3909592688:	get_view(0): returns 
+3909592689:	heartbeater: current membership 
+3909592690:	heartbeater: not member yet; skip hearbeat
+3909592690:	heartbeater: go to sleep
+3909595688:	get_view(0): returns 
+3909595689:	heartbeater: current membership 
+3909595690:	heartbeater: not member yet; skip hearbeat
+3909595690:	heartbeater: go to sleep
+3909598688:	get_view(0): returns 
+3909598690:	heartbeater: current membership 
+3909598690:	heartbeater: not member yet; skip hearbeat
+3909598691:	heartbeater: go to sleep
+3909601529:	get_view(0): returns 
+3909601530:	rsm::join: 11890 mylast (0,0)
+3909601531:	handler_mgr::get_handle trying to bind...11890
+3909601688:	get_view(0): returns 
+3909601688:	heartbeater: current membership 
+3909601689:	heartbeater: not member yet; skip hearbeat
+3909601689:	heartbeater: go to sleep
+3909602533:	handle_mgr::get_handle bind failure! 11890 -1
+3909602533:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909602533:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909604689:	get_view(0): returns 
+3909604690:	heartbeater: current membership 
+3909604691:	heartbeater: not member yet; skip hearbeat
+3909604691:	heartbeater: go to sleep
+3909607688:	get_view(0): returns 
+3909607689:	heartbeater: current membership 
+3909607689:	heartbeater: not member yet; skip hearbeat
+3909607691:	heartbeater: go to sleep
+3909610688:	get_view(0): returns 
+3909610689:	heartbeater: current membership 
+3909610690:	heartbeater: not member yet; skip hearbeat
+3909610691:	heartbeater: go to sleep
+3909613688:	get_view(0): returns 
+3909613688:	heartbeater: current membership 
+3909613689:	heartbeater: not member yet; skip hearbeat
+3909613689:	heartbeater: go to sleep
+3909616689:	get_view(0): returns 
+3909616690:	heartbeater: current membership 
+3909616690:	heartbeater: not member yet; skip hearbeat
+3909616691:	heartbeater: go to sleep
+3909619688:	get_view(0): returns 
+3909619689:	heartbeater: current membership 
+3909619689:	heartbeater: not member yet; skip hearbeat
+3909619689:	heartbeater: go to sleep
+3909622688:	get_view(0): returns 
+3909622689:	heartbeater: current membership 
+3909622690:	heartbeater: not member yet; skip hearbeat
+3909622691:	heartbeater: go to sleep
+3909625688:	get_view(0): returns 
+3909625689:	heartbeater: current membership 
+3909625690:	heartbeater: not member yet; skip hearbeat
+3909625690:	heartbeater: go to sleep
+3909628689:	get_view(0): returns 
+3909628689:	heartbeater: current membership 
+3909628689:	heartbeater: not member yet; skip hearbeat
+3909628690:	heartbeater: go to sleep
+3909631688:	get_view(0): returns 
+3909631689:	heartbeater: current membership 
+3909631690:	heartbeater: not member yet; skip hearbeat
+3909631690:	heartbeater: go to sleep
+3909632534:	get_view(0): returns 
+3909632535:	rsm::join: 11890 mylast (0,0)
+3909632536:	handler_mgr::get_handle trying to bind...11890
+3909633539:	handle_mgr::get_handle bind failure! 11890 -1
+3909633540:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909633540:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909634688:	get_view(0): returns 
+3909634689:	heartbeater: current membership 
+3909634689:	heartbeater: not member yet; skip hearbeat
+3909634690:	heartbeater: go to sleep
+3909637688:	get_view(0): returns 
+3909637689:	heartbeater: current membership 
+3909637689:	heartbeater: not member yet; skip hearbeat
+3909637690:	heartbeater: go to sleep
+3909640688:	get_view(0): returns 
+3909640689:	heartbeater: current membership 
+3909640690:	heartbeater: not member yet; skip hearbeat
+3909640690:	heartbeater: go to sleep
+3909643688:	get_view(0): returns 
+3909643689:	heartbeater: current membership 
+3909643689:	heartbeater: not member yet; skip hearbeat
+3909643689:	heartbeater: go to sleep
+3909646689:	get_view(0): returns 
+3909646691:	heartbeater: current membership 
+3909646692:	heartbeater: not member yet; skip hearbeat
+3909646692:	heartbeater: go to sleep
+3909649688:	get_view(0): returns 
+3909649689:	heartbeater: current membership 
+3909649690:	heartbeater: not member yet; skip hearbeat
+3909649691:	heartbeater: go to sleep
+3909652688:	get_view(0): returns 
+3909652689:	heartbeater: current membership 
+3909652689:	heartbeater: not member yet; skip hearbeat
+3909652690:	heartbeater: go to sleep
+3909655688:	get_view(0): returns 
+3909655689:	heartbeater: current membership 
+3909655690:	heartbeater: not member yet; skip hearbeat
+3909655691:	heartbeater: go to sleep
+3909658688:	get_view(0): returns 
+3909658689:	heartbeater: current membership 
+3909658689:	heartbeater: not member yet; skip hearbeat
+3909658690:	heartbeater: go to sleep
+3909661688:	get_view(0): returns 
+3909661689:	heartbeater: current membership 
+3909661689:	heartbeater: not member yet; skip hearbeat
+3909661689:	heartbeater: go to sleep
+3909663541:	get_view(0): returns 
+3909663542:	rsm::join: 11890 mylast (0,0)
+3909663542:	handler_mgr::get_handle trying to bind...11890
+3909664543:	handle_mgr::get_handle bind failure! 11890 -1
+3909664544:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909664544:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909664688:	get_view(0): returns 
+3909664689:	heartbeater: current membership 
+3909664689:	heartbeater: not member yet; skip hearbeat
+3909664690:	heartbeater: go to sleep
+3909667689:	get_view(0): returns 
+3909667690:	heartbeater: current membership 
+3909667690:	heartbeater: not member yet; skip hearbeat
+3909667691:	heartbeater: go to sleep
+3909670688:	get_view(0): returns 
+3909670690:	heartbeater: current membership 
+3909670690:	heartbeater: not member yet; skip hearbeat
+3909670692:	heartbeater: go to sleep
+3909673688:	get_view(0): returns 
+3909673689:	heartbeater: current membership 
+3909673690:	heartbeater: not member yet; skip hearbeat
+3909673690:	heartbeater: go to sleep
+3909676688:	get_view(0): returns 
+3909676690:	heartbeater: current membership 
+3909676691:	heartbeater: not member yet; skip hearbeat
+3909676691:	heartbeater: go to sleep
+3909679688:	get_view(0): returns 
+3909679689:	heartbeater: current membership 
+3909679689:	heartbeater: not member yet; skip hearbeat
+3909679689:	heartbeater: go to sleep
+3909682689:	get_view(0): returns 
+3909682689:	heartbeater: current membership 
+3909682690:	heartbeater: not member yet; skip hearbeat
+3909682690:	heartbeater: go to sleep
+3909685688:	get_view(0): returns 
+3909685689:	heartbeater: current membership 
+3909685689:	heartbeater: not member yet; skip hearbeat
+3909685690:	heartbeater: go to sleep
+3909688688:	get_view(0): returns 
+3909688689:	heartbeater: current membership 
+3909688689:	heartbeater: not member yet; skip hearbeat
+3909688690:	heartbeater: go to sleep
+3909691688:	get_view(0): returns 
+3909691689:	heartbeater: current membership 
+3909691689:	heartbeater: not member yet; skip hearbeat
+3909691690:	heartbeater: go to sleep
+3909694545:	get_view(0): returns 
+3909694546:	rsm::join: 11890 mylast (0,0)
+3909694546:	handler_mgr::get_handle trying to bind...11890
+3909694688:	get_view(0): returns 
+3909694689:	heartbeater: current membership 
+3909694689:	heartbeater: not member yet; skip hearbeat
+3909694690:	heartbeater: go to sleep
+3909695548:	handle_mgr::get_handle bind failure! 11890 -1
+3909695549:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909695550:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909697689:	get_view(0): returns 
+3909697690:	heartbeater: current membership 
+3909697691:	heartbeater: not member yet; skip hearbeat
+3909697692:	heartbeater: go to sleep
+3909700689:	get_view(0): returns 
+3909700689:	heartbeater: current membership 
+3909700690:	heartbeater: not member yet; skip hearbeat
+3909700690:	heartbeater: go to sleep
+3909703688:	get_view(0): returns 
+3909703689:	heartbeater: current membership 
+3909703689:	heartbeater: not member yet; skip hearbeat
+3909703690:	heartbeater: go to sleep
+3909706688:	get_view(0): returns 
+3909706689:	heartbeater: current membership 
+3909706690:	heartbeater: not member yet; skip hearbeat
+3909706691:	heartbeater: go to sleep
+3909709688:	get_view(0): returns 
+3909709689:	heartbeater: current membership 
+3909709689:	heartbeater: not member yet; skip hearbeat
+3909709689:	heartbeater: go to sleep
+3909712688:	get_view(0): returns 
+3909712689:	heartbeater: current membership 
+3909712690:	heartbeater: not member yet; skip hearbeat
+3909712691:	heartbeater: go to sleep
+3909715689:	get_view(0): returns 
+3909715690:	heartbeater: current membership 
+3909715690:	heartbeater: not member yet; skip hearbeat
+3909715691:	heartbeater: go to sleep
+3909718689:	get_view(0): returns 
+3909718690:	heartbeater: current membership 
+3909718690:	heartbeater: not member yet; skip hearbeat
+3909718691:	heartbeater: go to sleep
+3909721689:	get_view(0): returns 
+3909721692:	heartbeater: current membership 
+3909721692:	heartbeater: not member yet; skip hearbeat
+3909721693:	heartbeater: go to sleep
+3909724689:	get_view(0): returns 
+3909724689:	heartbeater: current membership 
+3909724689:	heartbeater: not member yet; skip hearbeat
+3909724690:	heartbeater: go to sleep
+3909725551:	get_view(0): returns 
+3909725551:	rsm::join: 11890 mylast (0,0)
+3909725551:	handler_mgr::get_handle trying to bind...11890
+3909726553:	handle_mgr::get_handle bind failure! 11890 -1
+3909726554:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909726555:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909727688:	get_view(0): returns 
+3909727689:	heartbeater: current membership 
+3909727690:	heartbeater: not member yet; skip hearbeat
+3909727690:	heartbeater: go to sleep
+3909730688:	get_view(0): returns 
+3909730689:	heartbeater: current membership 
+3909730689:	heartbeater: not member yet; skip hearbeat
+3909730690:	heartbeater: go to sleep
+3909733688:	get_view(0): returns 
+3909733689:	heartbeater: current membership 
+3909733690:	heartbeater: not member yet; skip hearbeat
+3909733691:	heartbeater: go to sleep
+3909736688:	get_view(0): returns 
+3909736689:	heartbeater: current membership 
+3909736690:	heartbeater: not member yet; skip hearbeat
+3909736691:	heartbeater: go to sleep
+3909739689:	get_view(0): returns 
+3909739690:	heartbeater: current membership 
+3909739691:	heartbeater: not member yet; skip hearbeat
+3909739691:	heartbeater: go to sleep
+3909742688:	get_view(0): returns 
+3909742689:	heartbeater: current membership 
+3909742689:	heartbeater: not member yet; skip hearbeat
+3909742689:	heartbeater: go to sleep
+3909745689:	get_view(0): returns 
+3909745689:	heartbeater: current membership 
+3909745690:	heartbeater: not member yet; skip hearbeat
+3909745690:	heartbeater: go to sleep
+3909748688:	get_view(0): returns 
+3909748689:	heartbeater: current membership 
+3909748690:	heartbeater: not member yet; skip hearbeat
+3909748691:	heartbeater: go to sleep
+3909751688:	get_view(0): returns 
+3909751689:	heartbeater: current membership 
+3909751689:	heartbeater: not member yet; skip hearbeat
+3909751690:	heartbeater: go to sleep
+3909754688:	get_view(0): returns 
+3909754690:	heartbeater: current membership 
+3909754690:	heartbeater: not member yet; skip hearbeat
+3909754692:	heartbeater: go to sleep
+3909756556:	get_view(0): returns 
+3909756557:	rsm::join: 11890 mylast (0,0)
+3909756557:	handler_mgr::get_handle trying to bind...11890
+3909757559:	handle_mgr::get_handle bind failure! 11890 -1
+3909757560:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909757560:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909757688:	get_view(0): returns 
+3909757689:	heartbeater: current membership 
+3909757689:	heartbeater: not member yet; skip hearbeat
+3909757690:	heartbeater: go to sleep
+3909760688:	get_view(0): returns 
+3909760689:	heartbeater: current membership 
+3909760690:	heartbeater: not member yet; skip hearbeat
+3909760691:	heartbeater: go to sleep
+3909763688:	get_view(0): returns 
+3909763690:	heartbeater: current membership 
+3909763690:	heartbeater: not member yet; skip hearbeat
+3909763691:	heartbeater: go to sleep
+3909766688:	get_view(0): returns 
+3909766689:	heartbeater: current membership 
+3909766689:	heartbeater: not member yet; skip hearbeat
+3909766690:	heartbeater: go to sleep
+3909769688:	get_view(0): returns 
+3909769688:	heartbeater: current membership 
+3909769689:	heartbeater: not member yet; skip hearbeat
+3909769689:	heartbeater: go to sleep
+3909772688:	get_view(0): returns 
+3909772689:	heartbeater: current membership 
+3909772690:	heartbeater: not member yet; skip hearbeat
+3909772690:	heartbeater: go to sleep
+3909775688:	get_view(0): returns 
+3909775690:	heartbeater: current membership 
+3909775690:	heartbeater: not member yet; skip hearbeat
+3909775691:	heartbeater: go to sleep
+3909778688:	get_view(0): returns 
+3909778689:	heartbeater: current membership 
+3909778690:	heartbeater: not member yet; skip hearbeat
+3909778690:	heartbeater: go to sleep
+3909781689:	get_view(0): returns 
+3909781690:	heartbeater: current membership 
+3909781691:	heartbeater: not member yet; skip hearbeat
+3909781691:	heartbeater: go to sleep
+3909784688:	get_view(0): returns 
+3909784689:	heartbeater: current membership 
+3909784689:	heartbeater: not member yet; skip hearbeat
+3909784690:	heartbeater: go to sleep
+3909787562:	get_view(0): returns 
+3909787563:	rsm::join: 11890 mylast (0,0)
+3909787564:	handler_mgr::get_handle trying to bind...11890
+3909787688:	get_view(0): returns 
+3909787689:	heartbeater: current membership 
+3909787689:	heartbeater: not member yet; skip hearbeat
+3909787690:	heartbeater: go to sleep
+3909788565:	handle_mgr::get_handle bind failure! 11890 -1
+3909788566:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909788566:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909790688:	get_view(0): returns 
+3909790689:	heartbeater: current membership 
+3909790690:	heartbeater: not member yet; skip hearbeat
+3909790691:	heartbeater: go to sleep
+3909793689:	get_view(0): returns 
+3909793690:	heartbeater: current membership 
+3909793690:	heartbeater: not member yet; skip hearbeat
+3909793691:	heartbeater: go to sleep
+3909796688:	get_view(0): returns 
+3909796689:	heartbeater: current membership 
+3909796689:	heartbeater: not member yet; skip hearbeat
+3909796690:	heartbeater: go to sleep
+3909799688:	get_view(0): returns 
+3909799689:	heartbeater: current membership 
+3909799689:	heartbeater: not member yet; skip hearbeat
+3909799690:	heartbeater: go to sleep
+3909802688:	get_view(0): returns 
+3909802689:	heartbeater: current membership 
+3909802690:	heartbeater: not member yet; skip hearbeat
+3909802690:	heartbeater: go to sleep
+3909805688:	get_view(0): returns 
+3909805689:	heartbeater: current membership 
+3909805690:	heartbeater: not member yet; skip hearbeat
+3909805691:	heartbeater: go to sleep
+3909808688:	get_view(0): returns 
+3909808690:	heartbeater: current membership 
+3909808691:	heartbeater: not member yet; skip hearbeat
+3909808692:	heartbeater: go to sleep
+3909811688:	get_view(0): returns 
+3909811689:	heartbeater: current membership 
+3909811690:	heartbeater: not member yet; skip hearbeat
+3909811690:	heartbeater: go to sleep
+3909814688:	get_view(0): returns 
+3909814689:	heartbeater: current membership 
+3909814689:	heartbeater: not member yet; skip hearbeat
+3909814689:	heartbeater: go to sleep
+3909817688:	get_view(0): returns 
+3909817689:	heartbeater: current membership 
+3909817690:	heartbeater: not member yet; skip hearbeat
+3909817691:	heartbeater: go to sleep
+3909818568:	get_view(0): returns 
+3909818569:	rsm::join: 11890 mylast (0,0)
+3909818570:	handler_mgr::get_handle trying to bind...11890
+3909819572:	handle_mgr::get_handle bind failure! 11890 -1
+3909819577:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909819578:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909820689:	get_view(0): returns 
+3909820690:	heartbeater: current membership 
+3909820691:	heartbeater: not member yet; skip hearbeat
+3909820692:	heartbeater: go to sleep
+3909823688:	get_view(0): returns 
+3909823689:	heartbeater: current membership 
+3909823690:	heartbeater: not member yet; skip hearbeat
+3909823691:	heartbeater: go to sleep
+3909826688:	get_view(0): returns 
+3909826689:	heartbeater: current membership 
+3909826690:	heartbeater: not member yet; skip hearbeat
+3909826691:	heartbeater: go to sleep
+3909829689:	get_view(0): returns 
+3909829689:	heartbeater: current membership 
+3909829689:	heartbeater: not member yet; skip hearbeat
+3909829690:	heartbeater: go to sleep
+3909832688:	get_view(0): returns 
+3909832690:	heartbeater: current membership 
+3909832690:	heartbeater: not member yet; skip hearbeat
+3909832691:	heartbeater: go to sleep
+3909835689:	get_view(0): returns 
+3909835689:	heartbeater: current membership 
+3909835690:	heartbeater: not member yet; skip hearbeat
+3909835690:	heartbeater: go to sleep
+3909838688:	get_view(0): returns 
+3909838689:	heartbeater: current membership 
+3909838689:	heartbeater: not member yet; skip hearbeat
+3909838690:	heartbeater: go to sleep
+3909841689:	get_view(0): returns 
+3909841690:	heartbeater: current membership 
+3909841691:	heartbeater: not member yet; skip hearbeat
+3909841692:	heartbeater: go to sleep
+3909844688:	get_view(0): returns 
+3909844689:	heartbeater: current membership 
+3909844690:	heartbeater: not member yet; skip hearbeat
+3909844691:	heartbeater: go to sleep
+3909847688:	get_view(0): returns 
+3909847689:	heartbeater: current membership 
+3909847690:	heartbeater: not member yet; skip hearbeat
+3909847691:	heartbeater: go to sleep
+3909849580:	get_view(0): returns 
+3909849581:	rsm::join: 11890 mylast (0,0)
+3909849581:	handler_mgr::get_handle trying to bind...11890
+3909850582:	handle_mgr::get_handle bind failure! 11890 -1
+3909850582:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909850583:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909850689:	get_view(0): returns 
+3909850689:	heartbeater: current membership 
+3909850690:	heartbeater: not member yet; skip hearbeat
+3909850691:	heartbeater: go to sleep
+3909853688:	get_view(0): returns 
+3909853688:	heartbeater: current membership 
+3909853689:	heartbeater: not member yet; skip hearbeat
+3909853689:	heartbeater: go to sleep
+3909856688:	get_view(0): returns 
+3909856691:	heartbeater: current membership 
+3909856691:	heartbeater: not member yet; skip hearbeat
+3909856692:	heartbeater: go to sleep
+3909859688:	get_view(0): returns 
+3909859689:	heartbeater: current membership 
+3909859690:	heartbeater: not member yet; skip hearbeat
+3909859691:	heartbeater: go to sleep
+3909862688:	get_view(0): returns 
+3909862689:	heartbeater: current membership 
+3909862690:	heartbeater: not member yet; skip hearbeat
+3909862690:	heartbeater: go to sleep
+3909865688:	get_view(0): returns 
+3909865691:	heartbeater: current membership 
+3909865692:	heartbeater: not member yet; skip hearbeat
+3909865693:	heartbeater: go to sleep
+3909868688:	get_view(0): returns 
+3909868689:	heartbeater: current membership 
+3909868689:	heartbeater: not member yet; skip hearbeat
+3909868691:	heartbeater: go to sleep
+3909871688:	get_view(0): returns 
+3909871689:	heartbeater: current membership 
+3909871689:	heartbeater: not member yet; skip hearbeat
+3909871689:	heartbeater: go to sleep
+3909874689:	get_view(0): returns 
+3909874689:	heartbeater: current membership 
+3909874689:	heartbeater: not member yet; skip hearbeat
+3909874690:	heartbeater: go to sleep
+3909877688:	get_view(0): returns 
+3909877689:	heartbeater: current membership 
+3909877690:	heartbeater: not member yet; skip hearbeat
+3909877690:	heartbeater: go to sleep
+3909880585:	get_view(0): returns 
+3909880586:	rsm::join: 11890 mylast (0,0)
+3909880586:	handler_mgr::get_handle trying to bind...11890
+3909880688:	get_view(0): returns 
+3909880691:	heartbeater: current membership 
+3909880691:	heartbeater: not member yet; skip hearbeat
+3909880693:	heartbeater: go to sleep
+3909881588:	handle_mgr::get_handle bind failure! 11890 -1
+3909881590:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909881592:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909883688:	get_view(0): returns 
+3909883689:	heartbeater: current membership 
+3909883689:	heartbeater: not member yet; skip hearbeat
+3909883690:	heartbeater: go to sleep
+3909886688:	get_view(0): returns 
+3909886689:	heartbeater: current membership 
+3909886690:	heartbeater: not member yet; skip hearbeat
+3909886691:	heartbeater: go to sleep
+3909889688:	get_view(0): returns 
+3909889688:	heartbeater: current membership 
+3909889688:	heartbeater: not member yet; skip hearbeat
+3909889689:	heartbeater: go to sleep
+3909892688:	get_view(0): returns 
+3909892691:	heartbeater: current membership 
+3909892692:	heartbeater: not member yet; skip hearbeat
+3909892693:	heartbeater: go to sleep
+3909895688:	get_view(0): returns 
+3909895692:	heartbeater: current membership 
+3909895692:	heartbeater: not member yet; skip hearbeat
+3909895693:	heartbeater: go to sleep
+3909898688:	get_view(0): returns 
+3909898693:	heartbeater: current membership 
+3909898693:	heartbeater: not member yet; skip hearbeat
+3909898694:	heartbeater: go to sleep
+3909901688:	get_view(0): returns 
+3909901689:	heartbeater: current membership 
+3909901693:	heartbeater: not member yet; skip hearbeat
+3909901694:	heartbeater: go to sleep
+3909904688:	get_view(0): returns 
+3909904689:	heartbeater: current membership 
+3909904689:	heartbeater: not member yet; skip hearbeat
+3909904689:	heartbeater: go to sleep
+3909907688:	get_view(0): returns 
+3909907690:	heartbeater: current membership 
+3909907690:	heartbeater: not member yet; skip hearbeat
+3909907691:	heartbeater: go to sleep
+3909910688:	get_view(0): returns 
+3909910689:	heartbeater: current membership 
+3909910690:	heartbeater: not member yet; skip hearbeat
+3909910691:	heartbeater: go to sleep
+3909911594:	get_view(0): returns 
+3909911595:	rsm::join: 11890 mylast (0,0)
+3909911596:	handler_mgr::get_handle trying to bind...11890
+3909912598:	handle_mgr::get_handle bind failure! 11890 -1
+3909912599:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909912600:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909913688:	get_view(0): returns 
+3909913690:	heartbeater: current membership 
+3909913690:	heartbeater: not member yet; skip hearbeat
+3909913691:	heartbeater: go to sleep
+3909916688:	get_view(0): returns 
+3909916689:	heartbeater: current membership 
+3909916689:	heartbeater: not member yet; skip hearbeat
+3909916690:	heartbeater: go to sleep
+3909919689:	get_view(0): returns 
+3909919692:	heartbeater: current membership 
+3909919693:	heartbeater: not member yet; skip hearbeat
+3909919694:	heartbeater: go to sleep
+3909922688:	get_view(0): returns 
+3909922689:	heartbeater: current membership 
+3909922689:	heartbeater: not member yet; skip hearbeat
+3909922689:	heartbeater: go to sleep
+3909925688:	get_view(0): returns 
+3909925691:	heartbeater: current membership 
+3909925692:	heartbeater: not member yet; skip hearbeat
+3909925693:	heartbeater: go to sleep
+3909928689:	get_view(0): returns 
+3909928690:	heartbeater: current membership 
+3909928691:	heartbeater: not member yet; skip hearbeat
+3909928692:	heartbeater: go to sleep
+3909931688:	get_view(0): returns 
+3909931689:	heartbeater: current membership 
+3909931690:	heartbeater: not member yet; skip hearbeat
+3909931691:	heartbeater: go to sleep
+3909934688:	get_view(0): returns 
+3909934689:	heartbeater: current membership 
+3909934690:	heartbeater: not member yet; skip hearbeat
+3909934691:	heartbeater: go to sleep
+3909937688:	get_view(0): returns 
+3909937689:	heartbeater: current membership 
+3909937690:	heartbeater: not member yet; skip hearbeat
+3909937690:	heartbeater: go to sleep
+3909940688:	get_view(0): returns 
+3909940689:	heartbeater: current membership 
+3909940690:	heartbeater: not member yet; skip hearbeat
+3909940691:	heartbeater: go to sleep
+3909942602:	get_view(0): returns 
+3909942603:	rsm::join: 11890 mylast (0,0)
+3909942604:	handler_mgr::get_handle trying to bind...11890
+3909943606:	handle_mgr::get_handle bind failure! 11890 -1
+3909943608:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909943609:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909943688:	get_view(0): returns 
+3909943688:	heartbeater: current membership 
+3909943689:	heartbeater: not member yet; skip hearbeat
+3909943689:	heartbeater: go to sleep
+3909946689:	get_view(0): returns 
+3909946690:	heartbeater: current membership 
+3909946690:	heartbeater: not member yet; skip hearbeat
+3909946691:	heartbeater: go to sleep
+3909949688:	get_view(0): returns 
+3909949689:	heartbeater: current membership 
+3909949690:	heartbeater: not member yet; skip hearbeat
+3909949692:	heartbeater: go to sleep
+3909952688:	get_view(0): returns 
+3909952689:	heartbeater: current membership 
+3909952690:	heartbeater: not member yet; skip hearbeat
+3909952690:	heartbeater: go to sleep
+3909955688:	get_view(0): returns 
+3909955689:	heartbeater: current membership 
+3909955690:	heartbeater: not member yet; skip hearbeat
+3909955690:	heartbeater: go to sleep
+3909958688:	get_view(0): returns 
+3909958689:	heartbeater: current membership 
+3909958690:	heartbeater: not member yet; skip hearbeat
+3909958690:	heartbeater: go to sleep
+3909961688:	get_view(0): returns 
+3909961690:	heartbeater: current membership 
+3909961690:	heartbeater: not member yet; skip hearbeat
+3909961691:	heartbeater: go to sleep
+3909964688:	get_view(0): returns 
+3909964689:	heartbeater: current membership 
+3909964689:	heartbeater: not member yet; skip hearbeat
+3909964690:	heartbeater: go to sleep
+3909967688:	get_view(0): returns 
+3909967689:	heartbeater: current membership 
+3909967690:	heartbeater: not member yet; skip hearbeat
+3909967690:	heartbeater: go to sleep
+3909970689:	get_view(0): returns 
+3909970690:	heartbeater: current membership 
+3909970691:	heartbeater: not member yet; skip hearbeat
+3909970692:	heartbeater: go to sleep
+3909973610:	get_view(0): returns 
+3909973612:	rsm::join: 11890 mylast (0,0)
+3909973613:	handler_mgr::get_handle trying to bind...11890
+3909973689:	get_view(0): returns 
+3909973690:	heartbeater: current membership 
+3909973691:	heartbeater: not member yet; skip hearbeat
+3909973692:	heartbeater: go to sleep
+3909974615:	handle_mgr::get_handle bind failure! 11890 -1
+3909974616:	rsm::join: couldn't reach 11890 (nil) 152211476
+3909974617:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3909976688:	get_view(0): returns 
+3909976689:	heartbeater: current membership 
+3909976690:	heartbeater: not member yet; skip hearbeat
+3909976691:	heartbeater: go to sleep
+3909979688:	get_view(0): returns 
+3909979690:	heartbeater: current membership 
+3909979690:	heartbeater: not member yet; skip hearbeat
+3909979691:	heartbeater: go to sleep
+3909982688:	get_view(0): returns 
+3909982690:	heartbeater: current membership 
+3909982690:	heartbeater: not member yet; skip hearbeat
+3909982690:	heartbeater: go to sleep
+3909985688:	get_view(0): returns 
+3909985689:	heartbeater: current membership 
+3909985689:	heartbeater: not member yet; skip hearbeat
+3909985689:	heartbeater: go to sleep
+3909988688:	get_view(0): returns 
+3909988688:	heartbeater: current membership 
+3909988688:	heartbeater: not member yet; skip hearbeat
+3909988689:	heartbeater: go to sleep
+3909991688:	get_view(0): returns 
+3909991688:	heartbeater: current membership 
+3909991689:	heartbeater: not member yet; skip hearbeat
+3909991689:	heartbeater: go to sleep
+3909994688:	get_view(0): returns 
+3909994689:	heartbeater: current membership 
+3909994690:	heartbeater: not member yet; skip hearbeat
+3909994691:	heartbeater: go to sleep
+3909997688:	get_view(0): returns 
+3909997689:	heartbeater: current membership 
+3909997689:	heartbeater: not member yet; skip hearbeat
+3909997690:	heartbeater: go to sleep
+3910000688:	get_view(0): returns 
+3910000690:	heartbeater: current membership 
+3910000690:	heartbeater: not member yet; skip hearbeat
+3910000691:	heartbeater: go to sleep
+3910003689:	get_view(0): returns 
+3910003690:	heartbeater: current membership 
+3910003691:	heartbeater: not member yet; skip hearbeat
+3910003691:	heartbeater: go to sleep
+3910004619:	get_view(0): returns 
+3910004619:	rsm::join: 11890 mylast (0,0)
+3910004620:	handler_mgr::get_handle trying to bind...11890
+3910005622:	handle_mgr::get_handle bind failure! 11890 -1
+3910005623:	rsm::join: couldn't reach 11890 (nil) 152211476
+3910005624:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3910006688:	get_view(0): returns 
+3910006689:	heartbeater: current membership 
+3910006689:	heartbeater: not member yet; skip hearbeat
+3910006690:	heartbeater: go to sleep
+3910009688:	get_view(0): returns 
+3910009689:	heartbeater: current membership 
+3910009690:	heartbeater: not member yet; skip hearbeat
+3910009690:	heartbeater: go to sleep
+3910012688:	get_view(0): returns 
+3910012689:	heartbeater: current membership 
+3910012689:	heartbeater: not member yet; skip hearbeat
+3910012689:	heartbeater: go to sleep
+3910015688:	get_view(0): returns 
+3910015689:	heartbeater: current membership 
+3910015689:	heartbeater: not member yet; skip hearbeat
+3910015690:	heartbeater: go to sleep
+3910018688:	get_view(0): returns 
+3910018689:	heartbeater: current membership 
+3910018690:	heartbeater: not member yet; skip hearbeat
+3910018691:	heartbeater: go to sleep
+3910021688:	get_view(0): returns 
+3910021689:	heartbeater: current membership 
+3910021690:	heartbeater: not member yet; skip hearbeat
+3910021690:	heartbeater: go to sleep
+3910024688:	get_view(0): returns 
+3910024689:	heartbeater: current membership 
+3910024690:	heartbeater: not member yet; skip hearbeat
+3910024691:	heartbeater: go to sleep
+3910027688:	get_view(0): returns 
+3910027689:	heartbeater: current membership 
+3910027689:	heartbeater: not member yet; skip hearbeat
+3910027690:	heartbeater: go to sleep
+3910030688:	get_view(0): returns 
+3910030689:	heartbeater: current membership 
+3910030690:	heartbeater: not member yet; skip hearbeat
+3910030690:	heartbeater: go to sleep
+3910033688:	get_view(0): returns 
+3910033689:	heartbeater: current membership 
+3910033690:	heartbeater: not member yet; skip hearbeat
+3910033691:	heartbeater: go to sleep
+3910035625:	get_view(0): returns 
+3910035625:	rsm::join: 11890 mylast (0,0)
+3910035626:	handler_mgr::get_handle trying to bind...11890
+3910036627:	handle_mgr::get_handle bind failure! 11890 -1
+3910036628:	rsm::join: couldn't reach 11890 (nil) 152211476
+3910036629:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3910036688:	get_view(0): returns 
+3910036689:	heartbeater: current membership 
+3910036689:	heartbeater: not member yet; skip hearbeat
+3910036690:	heartbeater: go to sleep
+3910039689:	get_view(0): returns 
+3910039690:	heartbeater: current membership 
+3910039691:	heartbeater: not member yet; skip hearbeat
+3910039692:	heartbeater: go to sleep
+3910042688:	get_view(0): returns 
+3910042689:	heartbeater: current membership 
+3910042689:	heartbeater: not member yet; skip hearbeat
+3910042689:	heartbeater: go to sleep
+3910045688:	get_view(0): returns 
+3910045691:	heartbeater: current membership 
+3910045691:	heartbeater: not member yet; skip hearbeat
+3910045691:	heartbeater: go to sleep
+3910048688:	get_view(0): returns 
+3910048690:	heartbeater: current membership 
+3910048691:	heartbeater: not member yet; skip hearbeat
+3910048692:	heartbeater: go to sleep
+3910051688:	get_view(0): returns 
+3910051690:	heartbeater: current membership 
+3910051691:	heartbeater: not member yet; skip hearbeat
+3910051692:	heartbeater: go to sleep
+3910054688:	get_view(0): returns 
+3910054689:	heartbeater: current membership 
+3910054690:	heartbeater: not member yet; skip hearbeat
+3910054690:	heartbeater: go to sleep
+3910057688:	get_view(0): returns 
+3910057689:	heartbeater: current membership 
+3910057689:	heartbeater: not member yet; skip hearbeat
+3910057690:	heartbeater: go to sleep
+3910060688:	get_view(0): returns 
+3910060690:	heartbeater: current membership 
+3910060691:	heartbeater: not member yet; skip hearbeat
+3910060692:	heartbeater: go to sleep
+3910063689:	get_view(0): returns 
+3910063690:	heartbeater: current membership 
+3910063690:	heartbeater: not member yet; skip hearbeat
+3910063691:	heartbeater: go to sleep
+3910066630:	get_view(0): returns 
+3910066631:	rsm::join: 11890 mylast (0,0)
+3910066632:	handler_mgr::get_handle trying to bind...11890
+3910066688:	get_view(0): returns 
+3910066689:	heartbeater: current membership 
+3910066690:	heartbeater: not member yet; skip hearbeat
+3910066691:	heartbeater: go to sleep
+3910067633:	handle_mgr::get_handle bind failure! 11890 -1
+3910067634:	rsm::join: couldn't reach 11890 (nil) 152211476
+3910067634:	handle_mgr::delete_handle_wo: cl 11890 refcnt 0
+3910069688:	get_view(0): returns 
+3910069690:	heartbeater: current membership 
+3910069691:	heartbeater: not member yet; skip hearbeat
+3910069692:	heartbeater: go to sleep
+3910072689:	get_view(0): returns 
+3910072689:	heartbeater: current membership 
+3910072689:	heartbeater: not member yet; skip hearbeat
+3910072690:	heartbeater: go to sleep
+3910075688:	get_view(0): returns 
+3910075689:	heartbeater: current membership 
+3910075689:	heartbeater: not member yet; skip hearbeat
+3910075690:	heartbeater: go to sleep
+3910078688:	get_view(0): returns 
+3910078689:	heartbeater: current membership 
+3910078690:	heartbeater: not member yet; skip hearbeat
+3910078690:	heartbeater: go to sleep
+3910081688:	get_view(0): returns 
+3910081689:	heartbeater: current membership 
+3910081690:	heartbeater: not member yet; skip hearbeat
+3910081690:	heartbeater: go to sleep
+3910084688:	get_view(0): returns 
+3910084690:	heartbeater: current membership 
+3910084690:	heartbeater: not member yet; skip hearbeat
+3910084691:	heartbeater: go to sleep
+3910087688:	get_view(0): returns 
+3910087690:	heartbeater: current membership 
+3910087691:	heartbeater: not member yet; skip hearbeat
+3910087691:	heartbeater: go to sleep
